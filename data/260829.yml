@@ -1,0 +1,72 @@
+about:
+  description: A modern runtime for JavaScript and TypeScript.
+  license: MIT
+  homepage: https://deno.com
+  head: f782223
+  archived: false
+  latestVersion: v2.9.6
+  collectedAt: 2026-08-29T07:10:15Z
+timeline:
+  created: 2018-05-15
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-27
+popularity:
+  star: 108339
+  watcher: 1425
+  fork: 6358
+  release: 389
+  contributor: 1196
+  pullRequest: 3709
+  issue: 15043
+language:
+  Rust: 20379661
+  TypeScript: 8540957
+  JavaScript: 3399608
+  C: 408112
+  HTML: 11518
+  CSS: 8595
+  Nix: 5616
+  Shell: 1863
+  WebAssembly: 1566
+  C++: 1416
+  Svelte: 664
+  Mustache: 280
+  Dockerfile: 257
+  Python: 214
+  Astro: 152
+  Vento: 52
+  Nunjucks: 45
+totalLine: 32760576
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 103
+    openPR: 81
+    closedIssue: 53
+    openIssue: 103
+    commit: 139
+  last90d:
+    since: 2026-05-31
+    release: 9
+    mergedPR: 934
+    openPR: 270
+    closedIssue: 358
+    openIssue: 299
+    commit: 1293
+  last180d:
+    since: 2026-03-02
+    release: 24
+    mergedPR: 2215
+    openPR: 318
+    closedIssue: 745
+    openIssue: 356
+    commit: 3217
+  last360d:
+    since: 2025-09-03
+    release: 47
+    mergedPR: 3062
+    openPR: 329
+    closedIssue: 1332
+    openIssue: 479
+    commit: 4186
