@@ -5,13 +5,13 @@ about:
   head: 60e01b1
   archived: false
   latestVersion: "v2.9.6"
-  collectedAt: 2026-09-08T01:36:25Z
+  collectedAt: 2026-09-08T04:28:25Z
 timeline:
   created: 2018-05-15
   lastCommit: 2026-09-07
   lastRelease: 2026-08-27
 popularity:
-  star: 108392
+  star: 108395
   watcher: 1430
   fork: 6376
   release: 389
@@ -95,7 +95,7 @@ total:
   commit: 17346
 ---
 path: /home/runner/.x-repo/github.com/denoland/deno
-collectedAt: 2026-09-08T01:36:56Z
+collectedAt: 2026-09-08T04:29:04Z
 loc:
   Rust:
     code: 575478
