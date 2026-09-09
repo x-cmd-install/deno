@@ -7,7 +7,7 @@ A modern runtime for JavaScript and TypeScript.
 - **Latest release**: `v2.9.6` (2026-08-27)
 - **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 108406 · **Forks**: 6367 · **Open issues**: 15083 · **Contributors**: 1202
+- **Stars**: 108397 · **Forks**: 6360 · **Open issues**: 15085 · **Contributors**: 1202
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/deno> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:49:12Z._
+_Last regenerated: 2026-09-09T18:45:37Z._
