@@ -1,0 +1,1221 @@
+- repo: crates_io
+  srcname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: Provides the deno executable
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 2.9.6-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 2.9.6-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: aosc
+  srcname: lang-js/deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.3
+  origversion: null
+  status: outdated
+  summary: JavaScript and TypeScript runtime
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - devel
+- repo: arch
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 2.9.6-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: aur
+  srcname: deno-git
+  binname: deno-git
+  visiblename: deno-git
+  version: 1.28.0.r8202.g7aa8e9c0351e
+  origversion: 1.28.0.r8202.g7aa8e9c0351e-1
+  status: rolling
+  summary: A secure runtime for JavaScript and TypeScript
+  maintainers:
+    - charlottedurand@aur
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: world
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 2.9.6-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: baulk
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript.
+- repo: chocolatey
+  binname: deno
+  visiblename: Deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript built with V8, Rust, and Tokio.
+- repo: chromebrew
+  srcname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: exherbo
+  subrepo: rust
+  srcname: dev-lang/deno-bin
+  visiblename: dev-lang/deno-bin
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - fallback-mnt-exherbo@repology
+  categories:
+    - dev-lang
+- repo: freebsd
+  srcname: www/deno
+  binname: deno
+  visiblename: www/deno
+  version: 2.9.1
+  origversion: 2.9.1_3
+  status: outdated
+  summary: Secure JavaScript and TypeScript runtime
+  maintainers:
+    - ports@freebsd.org
+  categories:
+    - www
+- repo: gentoo
+  srcname: dev-lang/deno-bin
+  visiblename: dev-lang/deno-bin
+  version: 2.9.4
+  origversion: null
+  status: legacy
+  summary: Modern runtime for JavaScript and TypeScript
+  maintainers:
+    - ionen@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MPL-2.0
+    - openssl
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - dev-lang
+- repo: gentoo
+  srcname: dev-lang/deno-bin
+  visiblename: dev-lang/deno-bin
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: Modern runtime for JavaScript and TypeScript
+  maintainers:
+    - ionen@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MPL-2.0
+    - openssl
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - dev-lang
+- repo: gentoo
+  srcname: dev-lang/deno-bin
+  visiblename: dev-lang/deno-bin
+  version: 2.9.5
+  origversion: null
+  status: legacy
+  summary: Modern runtime for JavaScript and TypeScript
+  maintainers:
+    - ionen@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MPL-2.0
+    - openssl
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - dev-lang
+- repo: gentoo
+  srcname: dev-lang/deno-bin
+  visiblename: dev-lang/deno-bin
+  version: 2.8.3
+  origversion: null
+  status: legacy
+  summary: Modern runtime for JavaScript and TypeScript
+  maintainers:
+    - ionen@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MPL-2.0
+    - openssl
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - dev-lang
+- repo: homebrew
+  srcname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: Secure runtime for JavaScript and TypeScript
+- repo: homebrew
+  srcname: deno
+  visiblename: deno
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Secure runtime for JavaScript and TypeScript
+- repo: liguros_develop
+  srcname: dev-lang/deno-bin
+  visiblename: dev-lang/deno-bin
+  version: 2.8.3
+  origversion: null
+  status: outdated
+  summary: Modern runtime for JavaScript and TypeScript
+  maintainers:
+    - ionen@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MPL-2.0
+    - openssl
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - dev-lang
+- repo: liguros_develop
+  srcname: dev-lang/deno-bin
+  visiblename: dev-lang/deno-bin
+  version: 2.8.2
+  origversion: null
+  status: legacy
+  summary: Modern runtime for JavaScript and TypeScript
+  maintainers:
+    - ionen@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MPL-2.0
+    - openssl
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - dev-lang
+- repo: macports
+  srcname: devel/deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 2.9.6-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: deno
+  visiblename: deno
+  version: 2.8.3
+  origversion: null
+  status: outdated
+  summary: Secure runtime for JavaScript and TypeScript
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - ofalvai@gmail.com
+    - mynacol@github
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: Secure runtime for JavaScript and TypeScript
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - ofalvai@gmail.com
+    - mynacol@github
+    - i@anish.land
+  licenses:
+    - MIT
+- repo: openbsd
+  srcname: lang/deno
+  binname: deno
+  visiblename: lang/deno
+  version: 2.9.6
+  origversion: 2.9.6p0
+  status: newest
+  summary: runtime for JavaScript and TypeScript
+  maintainers:
+    - volker@openbsd.org
+  categories:
+    - lang
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: deno
+  binnames:
+    - deno
+    - deno-debuginfo
+    - deno-debugsource
+    - deno-fish-completion
+    - deno-zsh-completion
+    - deno-bash-completion
+  visiblename: deno
+  version: 2.9.0
+  origversion: 2.9.0-1.3
+  status: outdated
+  summary: A secure JavaScript and TypeScript runtime
+  licenses:
+    - MIT
+  categories:
+    - Productivity/Other
+- repo: parabola
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 2.9.6-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: pclinuxos
+  srcname: deno
+  visiblename: deno
+  version: 2.9.4
+  origversion: 2.9.4-1pclos2026
+  status: outdated
+  summary: The Next Generation JavaScript runtime
+  categories:
+    - Development/Other
+- repo: scoop
+  subrepo: main
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: slackbuilds
+  srcname: development/deno
+  visiblename: development/deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  maintainers:
+    - fourtysixandtwo@sliderr.net
+  categories:
+    - development
+- repo: solus
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - harvey@getsol.us
+  licenses:
+    - MIT
+  categories:
+    - programming.tools
+- repo: solus
+  srcname: deno
+  binname: deno-dbginfo
+  visiblename: deno-dbginfo
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: Debug symbols for deno
+  maintainers:
+    - harvey@getsol.us
+  licenses:
+    - MIT
+  categories:
+    - debug
+- repo: spack
+  srcname: deno
+  visiblename: deno
+  version: 2.8.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - fallback-mnt-spack@repology
+  licenses:
+    - MIT
+- repo: termux
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 1:2.9.6
+  status: newest
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - licy183@github
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.4
+  origversion: 2.9.4-1.fcrawhide
+  status: legacy
+  summary: Deno executable
+  licenses:
+    - ((Apache-2.0 OR MIT) AND BSD-3-Clause) AND ((MIT OR Apache-2.0) AND Unicode-DFS-2016) AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND ISC) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR BSL-1.0 OR MIT) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND BSD-2-Clause AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR MIT) AND BSL-1.0 AND CC0-1.0 AND ISC AND (ISC AND (Apache-2.0 OR ISC)) AND (ISC AND (Apache-2.0 OR ISC) AND OpenSSL) AND MIT AND (MIT AND BSD-3-Clause) AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND MPL-2.0+ AND Unicode-3.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: deno-debuginfo
+  visiblename: deno-debuginfo
+  version: 2.9.4
+  origversion: 2.9.4-1.fcrawhide
+  status: legacy
+  summary: Debug information for package deno
+  licenses:
+    - ((Apache-2.0 OR MIT) AND BSD-3-Clause) AND ((MIT OR Apache-2.0) AND Unicode-DFS-2016) AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND ISC) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR BSL-1.0 OR MIT) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND BSD-2-Clause AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR MIT) AND BSL-1.0 AND CC0-1.0 AND ISC AND (ISC AND (Apache-2.0 OR ISC)) AND (ISC AND (Apache-2.0 OR ISC) AND OpenSSL) AND MIT AND (MIT AND BSD-3-Clause) AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND MPL-2.0+ AND Unicode-3.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.5
+  origversion: 2.9.5-1.fcrawhide
+  status: outdated
+  summary: Deno executable
+  licenses:
+    - ((Apache-2.0 OR MIT) AND BSD-3-Clause) AND ((MIT OR Apache-2.0) AND Unicode-DFS-2016) AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND ISC) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR BSL-1.0 OR MIT) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND BSD-2-Clause AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR MIT) AND BSL-1.0 AND CC0-1.0 AND ISC AND (ISC AND (Apache-2.0 OR ISC)) AND (ISC AND (Apache-2.0 OR ISC) AND OpenSSL) AND MIT AND (MIT AND BSD-3-Clause) AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND MPL-2.0+ AND Unicode-3.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 2.9.5
+  origversion: 2.9.5-1.fcrawhide
+  status: outdated
+  summary: Bash completion for deno
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: deno-debuginfo
+  visiblename: deno-debuginfo
+  version: 2.9.5
+  origversion: 2.9.5-1.fcrawhide
+  status: outdated
+  summary: Debug information for package deno
+  licenses:
+    - ((Apache-2.0 OR MIT) AND BSD-3-Clause) AND ((MIT OR Apache-2.0) AND Unicode-DFS-2016) AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND ISC) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR BSL-1.0 OR MIT) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND BSD-2-Clause AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR MIT) AND BSL-1.0 AND CC0-1.0 AND ISC AND (ISC AND (Apache-2.0 OR ISC)) AND (ISC AND (Apache-2.0 OR ISC) AND OpenSSL) AND MIT AND (MIT AND BSD-3-Clause) AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND MPL-2.0+ AND Unicode-3.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 2.9.5
+  origversion: 2.9.5-1.fcrawhide
+  status: outdated
+  summary: Fish completion for deno
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: deno-zsh-completion
+  visiblename: deno-zsh-completion
+  version: 2.9.5
+  origversion: 2.9.5-1.fcrawhide
+  status: outdated
+  summary: Zsh completion for deno
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: wikidata
+  srcname: Q65070939
+  visiblename: Deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: secure runtime for JavaScript and TypeScript based on the V8 JavaScript engine and the Rust programming language
+  licenses:
+    - MIT License
+- repo: crates_io
+  srcname: deno_core
+  visiblename: deno_core
+  version: 0.411.0
+  origversion: null
+  status: outdated
+  summary: A modern JavaScript/TypeScript runtime built with V8, Rust, and Tokio
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 1.38.1
+  origversion: 1.38.1-r0
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 1.38.1
+  origversion: 1.38.1-r0
+  status: outdated
+  summary: Bash completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: deno
+  binname: deno-dbg
+  visiblename: deno-dbg
+  version: 1.38.1
+  origversion: 1.38.1-r0
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript (debug symbols)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 1.38.1
+  origversion: 1.38.1-r0
+  status: outdated
+  summary: Fish completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: deno
+  binname: deno-zsh-completion
+  visiblename: deno-zsh-completion
+  version: 1.38.1
+  origversion: 1.38.1-r0
+  status: outdated
+  summary: Zsh completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 1.43.5
+  origversion: 1.43.5-r0
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 1.43.5
+  origversion: 1.43.5-r0
+  status: outdated
+  summary: Bash completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: deno
+  binname: deno-dbg
+  visiblename: deno-dbg
+  version: 1.43.5
+  origversion: 1.43.5-r0
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript (debug symbols)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 1.43.5
+  origversion: 1.43.5-r0
+  status: outdated
+  summary: Fish completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: deno
+  binname: deno-zsh-completion
+  visiblename: deno-zsh-completion
+  version: 1.43.5
+  origversion: 1.43.5-r0
+  status: outdated
+  summary: Zsh completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: deno
+  binname: denort
+  visiblename: denort
+  version: 1.43.5
+  origversion: 1.43.5-r0
+  status: outdated
+  summary: Deno runtime-only binary for deno compile
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.0.6
+  origversion: 2.0.6-r0
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 2.0.6
+  origversion: 2.0.6-r0
+  status: outdated
+  summary: Bash completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 2.0.6
+  origversion: 2.0.6-r0
+  status: outdated
+  summary: Fish completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: deno
+  binname: deno-zsh-completion
+  visiblename: deno-zsh-completion
+  version: 2.0.6
+  origversion: 2.0.6-r0
+  status: outdated
+  summary: Zsh completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: deno
+  binname: denort
+  visiblename: denort
+  version: 2.0.6
+  origversion: 2.0.6-r0
+  status: outdated
+  summary: Deno runtime-only binary for deno compile
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_22
+  subrepo: community
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.3.1
+  origversion: 2.3.1-r2
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_22
+  subrepo: community
+  srcname: deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 2.3.1
+  origversion: 2.3.1-r2
+  status: outdated
+  summary: Bash completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_22
+  subrepo: community
+  srcname: deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 2.3.1
+  origversion: 2.3.1-r2
+  status: outdated
+  summary: Fish completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_22
+  subrepo: community
+  srcname: deno
+  binname: deno-zsh-completion
+  visiblename: deno-zsh-completion
+  version: 2.3.1
+  origversion: 2.3.1-r2
+  status: outdated
+  summary: Zsh completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_23
+  subrepo: community
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.3.1
+  origversion: 2.3.1-r5
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_23
+  subrepo: community
+  srcname: deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 2.3.1
+  origversion: 2.3.1-r5
+  status: outdated
+  summary: Bash completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_23
+  subrepo: community
+  srcname: deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 2.3.1
+  origversion: 2.3.1-r5
+  status: outdated
+  summary: Fish completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_23
+  subrepo: community
+  srcname: deno
+  binname: deno-zsh-completion
+  visiblename: deno-zsh-completion
+  version: 2.3.1
+  origversion: 2.3.1-r5
+  status: outdated
+  summary: Zsh completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_24
+  subrepo: community
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.7.4
+  origversion: 2.7.4-r2
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_24
+  subrepo: community
+  srcname: deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 2.7.4
+  origversion: 2.7.4-r2
+  status: outdated
+  summary: Bash completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_24
+  subrepo: community
+  srcname: deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 2.7.4
+  origversion: 2.7.4-r2
+  status: outdated
+  summary: Fish completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_3_24
+  subrepo: community
+  srcname: deno
+  binname: deno-zsh-completion
+  visiblename: deno-zsh-completion
+  version: 2.7.4
+  origversion: 2.7.4-r2
+  status: outdated
+  summary: Zsh completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_edge
+  subrepo: community
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.7.4
+  origversion: 2.7.4-r3
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_edge
+  subrepo: community
+  srcname: deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 2.7.4
+  origversion: 2.7.4-r3
+  status: outdated
+  summary: Bash completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_edge
+  subrepo: community
+  srcname: deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 2.7.4
+  origversion: 2.7.4-r3
+  status: outdated
+  summary: Fish completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_edge
+  subrepo: community
+  srcname: deno
+  binname: deno-zsh-completion
+  visiblename: deno-zsh-completion
+  version: 2.7.4
+  origversion: 2.7.4-r3
+  status: outdated
+  summary: Zsh completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alt_p11
+  srcname: deno
+  binnames:
+    - deno
+    - deno-debuginfo
+  visiblename: deno
+  version: 2.6.4
+  origversion: 2.6.4-alt1
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - aris@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: deno
+  visiblename: deno
+  version: 1.44.3
+  origversion: null
+  status: outdated
+  summary: A secure runtime for JavaScript and TypeScript
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: altsisyphus
+  srcname: deno
+  binnames:
+    - deno
+    - deno-debuginfo
+  visiblename: deno
+  version: 2.6.4
+  origversion: 2.6.4-alt1
+  status: outdated
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - aris@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
+  vulnerable: true
+- repo: crates_io
+  srcname: deno_cli
+  visiblename: deno_cli
+  version: 0.23.3
+  origversion: null
+  status: outdated
+  summary: A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: deno
+  visiblename: deno
+  version: 2.1.4
+  origversion: null
+  status: outdated
+  summary: Secure runtime for JavaScript and TypeScript
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: liguros_develop
+  srcname: dev-lang/deno-bin
+  visiblename: dev-lang/deno-bin
+  version: 2.7.14
+  origversion: null
+  status: legacy
+  summary: Modern runtime for JavaScript and TypeScript
+  maintainers:
+    - ionen@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MPL-2.0
+    - openssl
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - dev-lang
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: deno
+  visiblename: deno
+  version: 2.2.12
+  origversion: null
+  status: outdated
+  summary: Secure runtime for JavaScript and TypeScript
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - ofalvai@gmail.com
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: nix_stable_25_11
+  srcname: deno
+  visiblename: deno
+  version: 2.6.10
+  origversion: null
+  status: outdated
+  summary: Secure runtime for JavaScript and TypeScript
+  maintainers:
+    - hello+nixpkgs@j-k.io
+    - ofalvai@gmail.com
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: terra_41
+  srcname: rust-deno
+  binname: deno
+  visiblename: deno
+  version: 2.5.6
+  origversion: 2.5.6-3.fc41
+  status: outdated
+  summary: Deno executable
+  licenses:
+    - ((Apache-2.0 OR MIT) AND BSD-3-Clause) AND ((MIT OR Apache-2.0) AND Unicode-DFS-2016) AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND ISC) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR BSL-1.0 OR MIT) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND BSD-2-Clause AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR MIT) AND BSL-1.0 AND CC0-1.0 AND ISC AND (ISC AND (Apache-2.0 OR ISC)) AND (ISC AND (Apache-2.0 OR ISC) AND OpenSSL) AND MIT AND (MIT AND BSD-3-Clause) AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND MPL-2.0+ AND Unicode-3.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: terra_41
+  srcname: rust-deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 2.5.6
+  origversion: 2.5.6-3.fc41
+  status: outdated
+  summary: Bash completion for deno
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: terra_41
+  srcname: rust-deno
+  binname: deno-debuginfo
+  visiblename: deno-debuginfo
+  version: 2.5.6
+  origversion: 2.5.6-3.fc41
+  status: outdated
+  summary: Debug information for package deno
+  licenses:
+    - ((Apache-2.0 OR MIT) AND BSD-3-Clause) AND ((MIT OR Apache-2.0) AND Unicode-DFS-2016) AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND (Apache-2.0 AND ISC) AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR BSL-1.0 OR MIT) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND BSD-2-Clause AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR MIT) AND BSL-1.0 AND CC0-1.0 AND ISC AND (ISC AND (Apache-2.0 OR ISC)) AND (ISC AND (Apache-2.0 OR ISC) AND OpenSSL) AND MIT AND (MIT AND BSD-3-Clause) AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND MPL-2.0+ AND Unicode-3.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Development/Debug
+  vulnerable: true
+- repo: terra_41
+  srcname: rust-deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 2.5.6
+  origversion: 2.5.6-3.fc41
+  status: outdated
+  summary: Fish completion for deno
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: terra_41
+  srcname: rust-deno
+  binname: deno-zsh-completion
+  visiblename: deno-zsh-completion
+  version: 2.5.6
+  origversion: 2.5.6-3.fc41
+  status: outdated
+  summary: Zsh completion for deno
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: terra_41
+  srcname: rust-deno
+  binname: rust-deno-debugsource
+  visiblename: rust-deno-debugsource
+  version: 2.5.6
+  origversion: 2.5.6-3.fc41
+  status: outdated
+  summary: Debug sources for package rust-deno
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+  vulnerable: true
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: rust-deno-debugsource
+  visiblename: rust-deno-debugsource
+  version: 2.6.8
+  origversion: 2.6.8-1.fcrawhide
+  status: legacy
+  summary: Debug sources for package rust-deno
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+  vulnerable: true
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: rust-deno-debugsource
+  visiblename: rust-deno-debugsource
+  version: 2.7.4
+  origversion: 2.7.4-1.fcrawhide
+  status: legacy
+  summary: Debug sources for package rust-deno
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+  vulnerable: true
