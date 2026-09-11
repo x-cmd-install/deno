@@ -1,10 +1,3 @@
-- repo: crates_io
-  srcname: deno
-  visiblename: deno
-  version: 2.9.6
-  origversion: null
-  status: newest
-  summary: Provides the deno executable
 - repo: manjaro_testing
   subrepo: extra
   srcname: deno
@@ -97,6 +90,13 @@
   summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
+- repo: crates_io
+  srcname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: null
+  status: newest
+  summary: Provides the deno executable
 - repo: exherbo
   subrepo: rust
   srcname: dev-lang/deno-bin
@@ -542,14 +542,6 @@
   summary: secure runtime for JavaScript and TypeScript based on the V8 JavaScript engine and the Rust programming language
   licenses:
     - MIT License
-- repo: crates_io
-  srcname: deno_core
-  visiblename: deno_core
-  version: 0.411.0
-  origversion: null
-  status: outdated
-  summary: A modern JavaScript/TypeScript runtime built with V8, Rust, and Tokio
-  vulnerable: true
 - repo: alpine_3_19
   subrepo: community
   srcname: deno
@@ -1051,6 +1043,14 @@
   origversion: null
   status: outdated
   summary: A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
+  vulnerable: true
+- repo: crates_io
+  srcname: deno_core
+  visiblename: deno_core
+  version: 0.411.0
+  origversion: null
+  status: outdated
+  summary: A modern JavaScript/TypeScript runtime built with V8, Rust, and Tokio
   vulnerable: true
 - repo: nix_stable_24_11
   srcname: deno
