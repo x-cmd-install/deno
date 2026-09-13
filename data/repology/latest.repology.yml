@@ -1,23 +1,19 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: deno
-  binname: deno
-  visiblename: deno
+- repo: wikidata
+  srcname: Q65070939
+  visiblename: Deno
   version: 2.9.6
-  origversion: 2.9.6-1
+  origversion: null
   status: newest
-  summary: A secure runtime for JavaScript and TypeScript
+  summary: secure runtime for JavaScript and TypeScript based on the V8 JavaScript engine and the Rust programming language
   licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: deno
+    - MIT License
+- repo: scoop
+  subrepo: main
   binname: deno
   visiblename: deno
   version: 2.9.6
-  origversion: 2.9.6-1
+  origversion: null
   status: newest
-  summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
 - repo: aosc
@@ -304,6 +300,28 @@
   summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 2.9.6-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 2.9.6-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: deno
   visiblename: deno
@@ -382,15 +400,6 @@
   summary: The Next Generation JavaScript runtime
   categories:
     - Development/Other
-- repo: scoop
-  subrepo: main
-  binname: deno
-  visiblename: deno
-  version: 2.9.6
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: slackbuilds
   srcname: development/deno
   visiblename: development/deno
@@ -533,15 +542,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: wikidata
-  srcname: Q65070939
-  visiblename: Deno
-  version: 2.9.6
-  origversion: null
-  status: newest
-  summary: secure runtime for JavaScript and TypeScript based on the V8 JavaScript engine and the Rust programming language
-  licenses:
-    - MIT License
 - repo: alpine_3_19
   subrepo: community
   srcname: deno
@@ -1007,18 +1007,6 @@
   categories:
     - Development/Other
   vulnerable: true
-- repo: nix_stable_24_05
-  srcname: deno
-  visiblename: deno
-  version: 1.44.3
-  origversion: null
-  status: outdated
-  summary: A secure runtime for JavaScript and TypeScript
-  maintainers:
-    - hello+nixpkgs@j-k.io
-  licenses:
-    - MIT
-  vulnerable: true
 - repo: altsisyphus
   srcname: deno
   binnames:
@@ -1052,17 +1040,18 @@
   status: outdated
   summary: A modern JavaScript/TypeScript runtime built with V8, Rust, and Tokio
   vulnerable: true
-- repo: nix_stable_24_11
-  srcname: deno
-  visiblename: deno
-  version: 2.1.4
-  origversion: null
+- repo: terra_41
+  srcname: rust-deno
+  binname: rust-deno-debugsource
+  visiblename: rust-deno-debugsource
+  version: 2.5.6
+  origversion: 2.5.6-3.fc41
   status: outdated
-  summary: Secure runtime for JavaScript and TypeScript
-  maintainers:
-    - hello+nixpkgs@j-k.io
+  summary: Debug sources for package rust-deno
   licenses:
     - MIT
+  categories:
+    - Development/Debug
   vulnerable: true
 - repo: liguros_develop
   srcname: dev-lang/deno-bin
@@ -1088,6 +1077,43 @@
     - ZLIB
   categories:
     - dev-lang
+  vulnerable: true
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: rust-deno-debugsource
+  visiblename: rust-deno-debugsource
+  version: 2.7.4
+  origversion: 2.7.4-1.fcrawhide
+  status: legacy
+  summary: Debug sources for package rust-deno
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: deno
+  visiblename: deno
+  version: 1.44.3
+  origversion: null
+  status: outdated
+  summary: A secure runtime for JavaScript and TypeScript
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: deno
+  visiblename: deno
+  version: 2.1.4
+  origversion: null
+  status: outdated
+  summary: Secure runtime for JavaScript and TypeScript
+  maintainers:
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - MIT
   vulnerable: true
 - repo: nix_stable_25_05
   srcname: deno
@@ -1180,38 +1206,12 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: terra_41
-  srcname: rust-deno
-  binname: rust-deno-debugsource
-  visiblename: rust-deno-debugsource
-  version: 2.5.6
-  origversion: 2.5.6-3.fc41
-  status: outdated
-  summary: Debug sources for package rust-deno
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
-  vulnerable: true
 - repo: terra_rawhide
   srcname: rust-deno
   binname: rust-deno-debugsource
   visiblename: rust-deno-debugsource
   version: 2.6.8
   origversion: 2.6.8-1.fcrawhide
-  status: legacy
-  summary: Debug sources for package rust-deno
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
-  vulnerable: true
-- repo: terra_rawhide
-  srcname: rust-deno
-  binname: rust-deno-debugsource
-  visiblename: rust-deno-debugsource
-  version: 2.7.4
-  origversion: 2.7.4-1.fcrawhide
   status: legacy
   summary: Debug sources for package rust-deno
   licenses:
