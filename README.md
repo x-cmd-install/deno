@@ -26,13 +26,13 @@ Total: **1,307,343** lines of code across **8269** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 13/30 approved changesets -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 108,416 · **Forks**: 6,366 · **Open issues**: 15,088 · **Contributors**: 1,202
+- **Stars**: 108,426 · **Forks**: 6,368 · **Open issues**: 15,092 · **Contributors**: 1,202
 
 ## Totals (cumulative)
 
-- **Releases**: 389 · **Merged PRs**: 16536 · **Open PRs**: 343 · **Closed issues**: 13864 · **Open issues**: 1224 · **Commits**: 17361
+- **Releases**: 389 · **Merged PRs**: 16536 · **Open PRs**: 347 · **Closed issues**: 13864 · **Open issues**: 1228 · **Commits**: 17361
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 57 | 55 | 30 | 80 | 74 |
-| last60d | 2026-07-15 | 4 | 260 | 139 | 103 | 189 | 251 |
-| 90d | 2026-06-15 | 7 | 609 | 231 | 287 | 292 | 657 |
-| last180d | 2026-03-17 | 20 | 2021 | 312 | 712 | 372 | 2783 |
-| 360d | 2025-09-18 | 45 | 3022 | 331 | 1283 | 495 | 4121 |
-| last720d | 2024-09-23 | 97 | 5005 | 343 | 3445 | 833 | 5001 |
+| 30d | 2026-08-15 | 1 | 56 | 58 | 30 | 81 | 74 |
+| last60d | 2026-07-16 | 3 | 244 | 141 | 100 | 182 | 251 |
+| 90d | 2026-06-16 | 7 | 600 | 234 | 283 | 292 | 657 |
+| last180d | 2026-03-18 | 20 | 2009 | 315 | 702 | 375 | 2783 |
+| 360d | 2025-09-19 | 45 | 3017 | 334 | 1278 | 497 | 4121 |
+| last720d | 2024-09-24 | 97 | 4998 | 347 | 3432 | 837 | 4989 |
 
 ## Release assets
 
@@ -126,18 +126,6 @@ Lowest-scoring checks:
 | [libdenort-x86_64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.6/libdenort-x86_64-unknown-linux-gnu.zip) | 30.0 MiB | `native/linux/x64/glibc` |
 | [libdenort-x86_64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.6/libdenort-x86_64-unknown-linux-gnu.zip.sha256sum) | 105 B | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **91** distros on [repology.org](https://repology.org/project/deno). **22** are ✅ on the latest upstream release, **58** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.9.6` | ✅ latest |
-| Homebrew | `2.9.6` | ✅ latest |
-| Nix unstable | `2.9.6` | ✅ latest |
-| Alpine edge | `2.7.4` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.9.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `deno` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -147,4 +135,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:41:36Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:49:52Z._
