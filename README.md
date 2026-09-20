@@ -4,7 +4,7 @@
 
 A modern runtime for JavaScript and TypeScript.
 
-![deno](https://repo.x-cmd.io/deno.svg)
+[![x-cmd/install — deno Code Quality Monitoring Repo Card](https://repo.x-cmd.io/deno.svg)](https://x-cmd.com/install/deno)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 108,466 · **Forks**: 6,372 · **Open issues**: 15,105 · **Contributors**: 1,204
+- **Stars**: 108,473 · **Forks**: 6,373 · **Open issues**: 15,110 · **Contributors**: 1,204
 
 ## Totals (cumulative)
 
-- **Releases**: 390 · **Merged PRs**: 16543 · **Open PRs**: 354 · **Closed issues**: 13868 · **Open issues**: 1237 · **Commits**: 17367
+- **Releases**: 390 · **Merged PRs**: 16543 · **Open PRs**: 355 · **Closed issues**: 13869 · **Open issues**: 1241 · **Commits**: 17367
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 52 | 59 | 19 | 82 | 82 |
-| last60d | 2026-07-20 | 4 | 223 | 134 | 92 | 175 | 259 |
-| 90d | 2026-06-20 | 8 | 549 | 230 | 254 | 291 | 665 |
-| last180d | 2026-03-22 | 19 | 1966 | 317 | 678 | 379 | 2791 |
-| 360d | 2025-09-23 | 46 | 3011 | 341 | 1267 | 501 | 4129 |
-| last720d | 2024-09-28 | 98 | 4977 | 354 | 3404 | 845 | 4961 |
+| 30d | 2026-08-21 | 2 | 45 | 56 | 18 | 79 | 56 |
+| last60d | 2026-07-22 | 4 | 191 | 118 | 88 | 173 | 201 |
+| 90d | 2026-06-22 | 8 | 540 | 230 | 248 | 292 | 570 |
+| last180d | 2026-03-24 | 19 | 1943 | 317 | 666 | 381 | 2655 |
+| 360d | 2025-09-25 | 45 | 3005 | 342 | 1253 | 504 | 4110 |
+| last720d | 2024-09-30 | 98 | 4967 | 355 | 3392 | 849 | 4957 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:38:15Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:02:59Z._
