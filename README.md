@@ -4,7 +4,7 @@
 
 A modern runtime for JavaScript and TypeScript.
 
-[![x-cmd/install — deno Code Quality Monitoring Repo Card](https://repo.x-cmd.io/deno.svg)](https://x-cmd.com/install/deno)
+[![x-cmd/install — deno Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/deno.svg)](https://x-cmd.com/install/deno)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 108,472 · **Forks**: 6,373 · **Open issues**: 15,116 · **Contributors**: 1,204
+- **Stars**: 108,475 · **Forks**: 6,377 · **Open issues**: 15,117 · **Contributors**: 1,204
 
 ## Totals (cumulative)
 
-- **Releases**: 390 · **Merged PRs**: 16544 · **Open PRs**: 358 · **Closed issues**: 13869 · **Open issues**: 1247 · **Commits**: 17368
+- **Releases**: 390 · **Merged PRs**: 16544 · **Open PRs**: 361 · **Closed issues**: 13869 · **Open issues**: 1248 · **Commits**: 17368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 46 | 54 | 16 | 78 | 57 |
-| last60d | 2026-07-24 | 3 | 175 | 115 | 84 | 170 | 202 |
-| 90d | 2026-06-24 | 8 | 518 | 226 | 236 | 289 | 571 |
-| last180d | 2026-03-26 | 18 | 1925 | 320 | 645 | 387 | 2656 |
-| 360d | 2025-09-27 | 45 | 3002 | 345 | 1248 | 508 | 4111 |
-| last720d | 2024-10-02 | 98 | 4945 | 358 | 3372 | 851 | 4940 |
+| 30d | 2026-08-24 | 2 | 37 | 55 | 15 | 77 | 57 |
+| last60d | 2026-07-25 | 3 | 171 | 117 | 81 | 168 | 202 |
+| 90d | 2026-06-25 | 8 | 504 | 223 | 227 | 286 | 571 |
+| last180d | 2026-03-27 | 18 | 1920 | 323 | 642 | 387 | 2656 |
+| 360d | 2025-09-28 | 45 | 3000 | 348 | 1247 | 509 | 4111 |
+| last720d | 2024-10-03 | 98 | 4934 | 361 | 3364 | 852 | 4926 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:48:55Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:58:44Z._

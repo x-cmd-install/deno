@@ -4,7 +4,7 @@
 
 A modern runtime for JavaScript and TypeScript.
 
-[![x-cmd/install — deno Code Quality Monitoring Repo Card](https://repo.x-cmd.io/deno.svg?lang=zh)](https://x-cmd.com/install/deno)
+[![x-cmd/install — deno Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/deno.svg?lang=zh)](https://x-cmd.com/install/deno)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install deno
 
 ## 流行度
 
-- **Star**: 108,472 · **Fork**: 6,373 · **开放 issue**: 15,116 · **贡献者**: 1,204
+- **Star**: 108,475 · **Fork**: 6,377 · **开放 issue**: 15,117 · **贡献者**: 1,204
 
 ## 累计统计
 
-- **发布数**: 390 · **已合并 PR**: 16544 · **开放 PR**: 358 · **已关闭 issue**: 13869 · **开放 issue**: 1247 · **提交数**: 17368
+- **发布数**: 390 · **已合并 PR**: 16544 · **开放 PR**: 361 · **已关闭 issue**: 13869 · **开放 issue**: 1248 · **提交数**: 17368
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 46 | 54 | 16 | 78 | 57 |
-| last60d | 2026-07-24 | 3 | 175 | 115 | 84 | 170 | 202 |
-| 90d | 2026-06-24 | 8 | 518 | 226 | 236 | 289 | 571 |
-| last180d | 2026-03-26 | 18 | 1925 | 320 | 645 | 387 | 2656 |
-| 360d | 2025-09-27 | 45 | 3002 | 345 | 1248 | 508 | 4111 |
-| last720d | 2024-10-02 | 98 | 4945 | 358 | 3372 | 851 | 4940 |
+| 30d | 2026-08-24 | 2 | 37 | 55 | 15 | 77 | 57 |
+| last60d | 2026-07-25 | 3 | 171 | 117 | 81 | 168 | 202 |
+| 90d | 2026-06-25 | 8 | 504 | 223 | 227 | 286 | 571 |
+| last180d | 2026-03-27 | 18 | 1920 | 323 | 642 | 387 | 2656 |
+| 360d | 2025-09-28 | 45 | 3000 | 348 | 1247 | 509 | 4111 |
+| last720d | 2024-10-03 | 98 | 4934 | 361 | 3364 | 852 | 4926 |
 
 ## Release 资产
 
@@ -135,4 +135,4 @@ deno 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:48:56Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:58:45Z._
