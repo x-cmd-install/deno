@@ -14,14 +14,14 @@ x install deno
 
 ## Code insight
 
-Total: **1,311,896** lines of code across **8284** files in the top 5 languages.
+Total: **1,312,410** lines of code across **8294** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 578,469 | 29,623 | 53,688 | 1052 |
-| JavaScript | 296,461 | 20,233 | 12,374 | 1689 |
-| TypeScript | 242,982 | 83,490 | 28,484 | 3515 |
-| Json | 173,572 | 0 | 17 | 2017 |
+| Rust | 578,865 | 29,647 | 53,722 | 1052 |
+| JavaScript | 296,473 | 20,234 | 12,376 | 1691 |
+| TypeScript | 243,062 | 83,510 | 28,492 | 3519 |
+| Json | 173,597 | 0 | 17 | 2021 |
 | C | 11,612 | 130 | 520 | 11 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.9.7` (2026-09-17)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-05
 - **Assets in release**: 56
 
 ## Popularity
 
-- **Stars**: 108,644 · **Forks**: 6,396 · **Open issues**: 15,147 · **Contributors**: 1,205
+- **Stars**: 108,660 · **Forks**: 6,399 · **Open issues**: 15,152 · **Contributors**: 1,206
 
 ## Totals (cumulative)
 
-- **Releases**: 390 · **Merged PRs**: 16553 · **Open PRs**: 390 · **Closed issues**: 13877 · **Open issues**: 1270 · **Commits**: 17377
+- **Releases**: 390 · **Merged PRs**: 16556 · **Open PRs**: 392 · **Closed issues**: 13878 · **Open issues**: 1274 · **Commits**: 17380
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 19 | 73 | 12 | 65 | 18 |
-| last60d | 2026-08-06 | 3 | 105 | 121 | 64 | 162 | 136 |
-| 90d | 2026-07-07 | 6 | 379 | 214 | 158 | 263 | 371 |
-| last180d | 2026-04-08 | 15 | 1854 | 346 | 609 | 401 | 2538 |
-| 360d | 2025-10-10 | 41 | 2964 | 377 | 1206 | 525 | 4072 |
-| last720d | 2024-10-15 | 97 | 4864 | 390 | 3229 | 860 | 4879 |
+| 30d | 2026-09-06 | 1 | 22 | 75 | 13 | 65 | 21 |
+| last60d | 2026-08-07 | 2 | 100 | 118 | 64 | 162 | 139 |
+| 90d | 2026-07-08 | 6 | 357 | 211 | 151 | 265 | 374 |
+| last180d | 2026-04-09 | 15 | 1849 | 348 | 609 | 403 | 2541 |
+| 360d | 2025-10-11 | 41 | 2965 | 379 | 1206 | 529 | 4075 |
+| last720d | 2024-10-16 | 97 | 4850 | 392 | 3205 | 861 | 4862 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:33:22Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:13:16Z._
