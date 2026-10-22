@@ -14,14 +14,14 @@ x install deno
 
 ## Code insight
 
-Total: **1,313,064** lines of code across **8297** files in the top 5 languages.
+Total: **1,313,220** lines of code across **8302** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 579,211 | 29,682 | 53,747 | 1052 |
+| Rust | 579,339 | 29,689 | 53,752 | 1052 |
 | JavaScript | 296,585 | 20,233 | 12,394 | 1691 |
-| TypeScript | 243,253 | 83,513 | 28,497 | 3521 |
-| Json | 173,602 | 0 | 17 | 2022 |
+| TypeScript | 243,276 | 83,513 | 28,497 | 3525 |
+| Json | 173,607 | 0 | 17 | 2023 |
 | C | 11,612 | 130 | 520 | 11 |
 
 ## OpenSSF Scorecard
@@ -42,89 +42,89 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.9.7` (2026-09-17)
-- **Last commit**: 2026-10-20
+- **Latest**: `v2.9.8` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 56
 
 ## Popularity
 
-- **Stars**: 108,723 · **Forks**: 6,461 · **Open issues**: 15,191 · **Contributors**: 1,207
+- **Stars**: 108,721 · **Forks**: 6,458 · **Open issues**: 15,193 · **Contributors**: 1,208
 
 ## Totals (cumulative)
 
-- **Releases**: 390 · **Merged PRs**: 16566 · **Open PRs**: 415 · **Closed issues**: 13885 · **Open issues**: 1306 · **Commits**: 17390
+- **Releases**: 391 · **Merged PRs**: 16572 · **Open PRs**: 326 · **Closed issues**: 13886 · **Open issues**: 1307 · **Commits**: 17395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 21 | 64 | 9 | 66 | 22 |
-| last60d | 2026-08-22 | 2 | 67 | 116 | 32 | 143 | 87 |
-| 90d | 2026-07-23 | 4 | 208 | 176 | 103 | 236 | 249 |
-| last180d | 2026-04-24 | 13 | 1744 | 369 | 554 | 431 | 2223 |
-| 360d | 2025-10-26 | 41 | 2934 | 402 | 1157 | 550 | 4028 |
-| last720d | 2024-10-31 | 93 | 4748 | 415 | 3046 | 881 | 4755 |
+| 30d | 2026-09-22 | 1 | 26 | 61 | 10 | 67 | 27 |
+| last60d | 2026-08-23 | 3 | 73 | 114 | 33 | 140 | 92 |
+| 90d | 2026-07-24 | 4 | 203 | 168 | 101 | 232 | 254 |
+| last180d | 2026-04-25 | 14 | 1702 | 296 | 554 | 432 | 2228 |
+| 360d | 2025-10-27 | 42 | 2936 | 317 | 1154 | 550 | 4033 |
+| last720d | 2024-11-01 | 94 | 4752 | 326 | 3034 | 882 | 4753 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [deno-aarch64-apple-darwin.from-2.9.6.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-apple-darwin.from-2.9.6.bsdiff) | 5.5 MiB | `native/darwin/arm64` |
-| [deno-aarch64-apple-darwin.from-2.9.6.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-apple-darwin.from-2.9.6.bsdiff.sha256sum) | 110 B | `native/darwin/arm64` |
-| [deno-aarch64-apple-darwin.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-apple-darwin.sha256sum) | 71 B | `native/darwin/arm64` |
-| [deno-aarch64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-apple-darwin.zip) | 36.7 MiB | `native/darwin/arm64` |
-| [deno-aarch64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-apple-darwin.zip.sha256sum) | 96 B | `native/darwin/arm64` |
-| [deno-aarch64-pc-windows-msvc.from-2.9.6.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-pc-windows-msvc.from-2.9.6.bsdiff) | 3.5 MiB | `native/win/arm64` |
-| [deno-aarch64-pc-windows-msvc.from-2.9.6.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-pc-windows-msvc.from-2.9.6.bsdiff.sha256sum) | 192 B | `native/win/arm64` |
-| [deno-aarch64-pc-windows-msvc.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-pc-windows-msvc.sha256sum) | 154 B | `native/win/arm64` |
-| [deno-aarch64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-pc-windows-msvc.zip) | 39.0 MiB | `native/win/arm64` |
-| [deno-aarch64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-pc-windows-msvc.zip.sha256sum) | 178 B | `native/win/arm64` |
-| [deno-aarch64-unknown-linux-gnu.from-2.9.6.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-unknown-linux-gnu.from-2.9.6.bsdiff) | 5.2 MiB | `native/linux/arm64/glibc` |
-| [deno-aarch64-unknown-linux-gnu.from-2.9.6.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-unknown-linux-gnu.from-2.9.6.bsdiff.sha256sum) | 115 B | `native/linux/arm64/glibc` |
-| [deno-aarch64-unknown-linux-gnu.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-unknown-linux-gnu.sha256sum) | 71 B | `native/linux/arm64/glibc` |
-| [deno-aarch64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-unknown-linux-gnu.zip) | 38.0 MiB | `native/linux/arm64/glibc` |
-| [deno-aarch64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-aarch64-unknown-linux-gnu.zip.sha256sum) | 101 B | `native/linux/arm64/glibc` |
-| [deno-x86_64-apple-darwin.from-2.9.6.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-apple-darwin.from-2.9.6.bsdiff) | 3.9 MiB | `native/darwin/x64` |
-| [deno-x86_64-apple-darwin.from-2.9.6.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-apple-darwin.from-2.9.6.bsdiff.sha256sum) | 109 B | `native/darwin/x64` |
-| [deno-x86_64-apple-darwin.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-apple-darwin.sha256sum) | 71 B | `native/darwin/x64` |
-| [deno-x86_64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-apple-darwin.zip) | 40.3 MiB | `native/darwin/x64` |
-| [deno-x86_64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-apple-darwin.zip.sha256sum) | 95 B | `native/darwin/x64` |
-| [deno-x86_64-pc-windows-msvc.from-2.9.6.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-pc-windows-msvc.from-2.9.6.bsdiff) | 3.7 MiB | `native/win/x64` |
-| [deno-x86_64-pc-windows-msvc.from-2.9.6.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-pc-windows-msvc.from-2.9.6.bsdiff.sha256sum) | 191 B | `native/win/x64` |
-| [deno-x86_64-pc-windows-msvc.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-pc-windows-msvc.sha256sum) | 154 B | `native/win/x64` |
-| [deno-x86_64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-pc-windows-msvc.zip) | 40.7 MiB | `native/win/x64` |
-| [deno-x86_64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-pc-windows-msvc.zip.sha256sum) | 177 B | `native/win/x64` |
-| [deno-x86_64-unknown-linux-gnu.from-2.9.6.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-unknown-linux-gnu.from-2.9.6.bsdiff) | 3.7 MiB | `native/linux/x64/glibc` |
-| [deno-x86_64-unknown-linux-gnu.from-2.9.6.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-unknown-linux-gnu.from-2.9.6.bsdiff.sha256sum) | 114 B | `native/linux/x64/glibc` |
-| [deno-x86_64-unknown-linux-gnu.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-unknown-linux-gnu.sha256sum) | 71 B | `native/linux/x64/glibc` |
-| [deno-x86_64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-unknown-linux-gnu.zip) | 39.7 MiB | `native/linux/x64/glibc` |
-| [deno-x86_64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-unknown-linux-gnu.zip.sha256sum) | 100 B | `native/linux/x64/glibc` |
-| [denort-aarch64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.7/denort-aarch64-apple-darwin.zip) | 27.4 MiB | `native/darwin/arm64` |
-| [denort-aarch64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/denort-aarch64-apple-darwin.zip.sha256sum) | 98 B | `native/darwin/arm64` |
-| [denort-aarch64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.7/denort-aarch64-pc-windows-msvc.zip) | 29.8 MiB | `native/win/arm64` |
-| [denort-aarch64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/denort-aarch64-pc-windows-msvc.zip.sha256sum) | 180 B | `native/win/arm64` |
-| [denort-aarch64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.7/denort-aarch64-unknown-linux-gnu.zip) | 32.7 MiB | `native/linux/arm64/glibc` |
-| [denort-aarch64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/denort-aarch64-unknown-linux-gnu.zip.sha256sum) | 103 B | `native/linux/arm64/glibc` |
-| [denort-x86_64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.7/denort-x86_64-apple-darwin.zip) | 30.1 MiB | `native/darwin/x64` |
-| [denort-x86_64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/denort-x86_64-apple-darwin.zip.sha256sum) | 97 B | `native/darwin/x64` |
-| [denort-x86_64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.7/denort-x86_64-pc-windows-msvc.zip) | 31.2 MiB | `native/win/x64` |
-| [denort-x86_64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/denort-x86_64-pc-windows-msvc.zip.sha256sum) | 179 B | `native/win/x64` |
-| [denort-x86_64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.7/denort-x86_64-unknown-linux-gnu.zip) | 32.8 MiB | `native/linux/x64/glibc` |
-| [denort-x86_64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/denort-x86_64-unknown-linux-gnu.zip.sha256sum) | 102 B | `native/linux/x64/glibc` |
-| [deno_src.tar.gz](https://github.com/denoland/deno/releases/download/v2.9.7/deno_src.tar.gz) | 32.7 MiB | `native/unknown` |
-| [lib.deno.d.ts](https://github.com/denoland/deno/releases/download/v2.9.7/lib.deno.d.ts) | 704.4 KiB | `other` |
-| [libdenort-aarch64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-aarch64-apple-darwin.zip) | 27.6 MiB | `native/darwin/arm64` |
-| [libdenort-aarch64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-aarch64-apple-darwin.zip.sha256sum) | 101 B | `native/darwin/arm64` |
-| [libdenort-aarch64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-aarch64-pc-windows-msvc.zip) | 30.0 MiB | `native/win/arm64` |
-| [libdenort-aarch64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-aarch64-pc-windows-msvc.zip.sha256sum) | 183 B | `native/win/arm64` |
-| [libdenort-aarch64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-aarch64-unknown-linux-gnu.zip) | 28.7 MiB | `native/linux/arm64/glibc` |
-| [libdenort-aarch64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-aarch64-unknown-linux-gnu.zip.sha256sum) | 106 B | `native/linux/arm64/glibc` |
-| [libdenort-x86_64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-x86_64-apple-darwin.zip) | 30.3 MiB | `native/darwin/x64` |
-| [libdenort-x86_64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-x86_64-apple-darwin.zip.sha256sum) | 100 B | `native/darwin/x64` |
-| [libdenort-x86_64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-x86_64-pc-windows-msvc.zip) | 31.4 MiB | `native/win/x64` |
-| [libdenort-x86_64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-x86_64-pc-windows-msvc.zip.sha256sum) | 182 B | `native/win/x64` |
-| [libdenort-x86_64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-x86_64-unknown-linux-gnu.zip) | 30.0 MiB | `native/linux/x64/glibc` |
-| [libdenort-x86_64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.7/libdenort-x86_64-unknown-linux-gnu.zip.sha256sum) | 105 B | `native/linux/x64/glibc` |
+| [deno-aarch64-apple-darwin.from-2.9.7.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.from-2.9.7.bsdiff) | 5.9 MiB | `native/darwin/arm64` |
+| [deno-aarch64-apple-darwin.from-2.9.7.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.from-2.9.7.bsdiff.sha256sum) | 110 B | `native/darwin/arm64` |
+| [deno-aarch64-apple-darwin.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.sha256sum) | 71 B | `native/darwin/arm64` |
+| [deno-aarch64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.zip) | 37.0 MiB | `native/darwin/arm64` |
+| [deno-aarch64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.zip.sha256sum) | 96 B | `native/darwin/arm64` |
+| [deno-aarch64-pc-windows-msvc.from-2.9.7.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.from-2.9.7.bsdiff) | 4.5 MiB | `native/win/arm64` |
+| [deno-aarch64-pc-windows-msvc.from-2.9.7.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.from-2.9.7.bsdiff.sha256sum) | 192 B | `native/win/arm64` |
+| [deno-aarch64-pc-windows-msvc.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.sha256sum) | 154 B | `native/win/arm64` |
+| [deno-aarch64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.zip) | 39.3 MiB | `native/win/arm64` |
+| [deno-aarch64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.zip.sha256sum) | 178 B | `native/win/arm64` |
+| [deno-aarch64-unknown-linux-gnu.from-2.9.7.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.from-2.9.7.bsdiff) | 5.5 MiB | `native/linux/arm64/glibc` |
+| [deno-aarch64-unknown-linux-gnu.from-2.9.7.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.from-2.9.7.bsdiff.sha256sum) | 115 B | `native/linux/arm64/glibc` |
+| [deno-aarch64-unknown-linux-gnu.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.sha256sum) | 71 B | `native/linux/arm64/glibc` |
+| [deno-aarch64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.zip) | 38.3 MiB | `native/linux/arm64/glibc` |
+| [deno-aarch64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.zip.sha256sum) | 101 B | `native/linux/arm64/glibc` |
+| [deno-x86_64-apple-darwin.from-2.9.7.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.from-2.9.7.bsdiff) | 4.2 MiB | `native/darwin/x64` |
+| [deno-x86_64-apple-darwin.from-2.9.7.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.from-2.9.7.bsdiff.sha256sum) | 109 B | `native/darwin/x64` |
+| [deno-x86_64-apple-darwin.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.sha256sum) | 71 B | `native/darwin/x64` |
+| [deno-x86_64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.zip) | 40.8 MiB | `native/darwin/x64` |
+| [deno-x86_64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.zip.sha256sum) | 95 B | `native/darwin/x64` |
+| [deno-x86_64-pc-windows-msvc.from-2.9.7.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.from-2.9.7.bsdiff) | 3.8 MiB | `native/win/x64` |
+| [deno-x86_64-pc-windows-msvc.from-2.9.7.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.from-2.9.7.bsdiff.sha256sum) | 191 B | `native/win/x64` |
+| [deno-x86_64-pc-windows-msvc.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.sha256sum) | 154 B | `native/win/x64` |
+| [deno-x86_64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.zip) | 40.9 MiB | `native/win/x64` |
+| [deno-x86_64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.zip.sha256sum) | 177 B | `native/win/x64` |
+| [deno-x86_64-unknown-linux-gnu.from-2.9.7.bsdiff](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.from-2.9.7.bsdiff) | 3.9 MiB | `native/linux/x64/glibc` |
+| [deno-x86_64-unknown-linux-gnu.from-2.9.7.bsdiff.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.from-2.9.7.bsdiff.sha256sum) | 114 B | `native/linux/x64/glibc` |
+| [deno-x86_64-unknown-linux-gnu.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.sha256sum) | 71 B | `native/linux/x64/glibc` |
+| [deno-x86_64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.zip) | 40.0 MiB | `native/linux/x64/glibc` |
+| [deno-x86_64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.zip.sha256sum) | 100 B | `native/linux/x64/glibc` |
+| [denort-aarch64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-apple-darwin.zip) | 27.7 MiB | `native/darwin/arm64` |
+| [denort-aarch64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-apple-darwin.zip.sha256sum) | 98 B | `native/darwin/arm64` |
+| [denort-aarch64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-pc-windows-msvc.zip) | 30.1 MiB | `native/win/arm64` |
+| [denort-aarch64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-pc-windows-msvc.zip.sha256sum) | 180 B | `native/win/arm64` |
+| [denort-aarch64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-unknown-linux-gnu.zip) | 33.0 MiB | `native/linux/arm64/glibc` |
+| [denort-aarch64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-unknown-linux-gnu.zip.sha256sum) | 103 B | `native/linux/arm64/glibc` |
+| [denort-x86_64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-apple-darwin.zip) | 30.6 MiB | `native/darwin/x64` |
+| [denort-x86_64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-apple-darwin.zip.sha256sum) | 97 B | `native/darwin/x64` |
+| [denort-x86_64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-pc-windows-msvc.zip) | 31.5 MiB | `native/win/x64` |
+| [denort-x86_64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-pc-windows-msvc.zip.sha256sum) | 179 B | `native/win/x64` |
+| [denort-x86_64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-unknown-linux-gnu.zip) | 33.2 MiB | `native/linux/x64/glibc` |
+| [denort-x86_64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-unknown-linux-gnu.zip.sha256sum) | 102 B | `native/linux/x64/glibc` |
+| [deno_src.tar.gz](https://github.com/denoland/deno/releases/download/v2.9.8/deno_src.tar.gz) | 35.3 MiB | `native/unknown` |
+| [lib.deno.d.ts](https://github.com/denoland/deno/releases/download/v2.9.8/lib.deno.d.ts) | 704.4 KiB | `other` |
+| [libdenort-aarch64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-apple-darwin.zip) | 27.9 MiB | `native/darwin/arm64` |
+| [libdenort-aarch64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-apple-darwin.zip.sha256sum) | 101 B | `native/darwin/arm64` |
+| [libdenort-aarch64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-pc-windows-msvc.zip) | 30.3 MiB | `native/win/arm64` |
+| [libdenort-aarch64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-pc-windows-msvc.zip.sha256sum) | 183 B | `native/win/arm64` |
+| [libdenort-aarch64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-unknown-linux-gnu.zip) | 29.0 MiB | `native/linux/arm64/glibc` |
+| [libdenort-aarch64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-unknown-linux-gnu.zip.sha256sum) | 106 B | `native/linux/arm64/glibc` |
+| [libdenort-x86_64-apple-darwin.zip](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-apple-darwin.zip) | 30.8 MiB | `native/darwin/x64` |
+| [libdenort-x86_64-apple-darwin.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-apple-darwin.zip.sha256sum) | 100 B | `native/darwin/x64` |
+| [libdenort-x86_64-pc-windows-msvc.zip](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-pc-windows-msvc.zip) | 31.7 MiB | `native/win/x64` |
+| [libdenort-x86_64-pc-windows-msvc.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-pc-windows-msvc.zip.sha256sum) | 182 B | `native/win/x64` |
+| [libdenort-x86_64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-unknown-linux-gnu.zip) | 30.4 MiB | `native/linux/x64/glibc` |
+| [libdenort-x86_64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-unknown-linux-gnu.zip.sha256sum) | 105 B | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -135,4 +135,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:37:20Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:34:44Z._
