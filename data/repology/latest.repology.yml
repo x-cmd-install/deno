@@ -1,36 +1,3 @@
-- repo: arch
-  subrepo: extra
-  srcname: deno
-  binname: deno
-  visiblename: deno
-  version: 2.9.8
-  origversion: 2.9.8-1
-  status: newest
-  summary: A secure runtime for JavaScript and TypeScript
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: deno
-  binname: deno
-  visiblename: deno
-  version: 2.9.7
-  origversion: 2.9.7-1
-  status: outdated
-  summary: A secure runtime for JavaScript and TypeScript
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: deno
-  binname: deno
-  visiblename: deno
-  version: 2.9.8
-  origversion: 2.9.8-1
-  status: newest
-  summary: A secure runtime for JavaScript and TypeScript
-  licenses:
-    - MIT
 - repo: aosc
   srcname: lang-js/deno
   binname: deno
@@ -43,6 +10,17 @@
     - fallback-mnt-aosc@repology
   categories:
     - devel
+- repo: arch
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.8
+  origversion: 2.9.8-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
 - repo: aur
   srcname: deno-git
   binname: deno-git
@@ -200,6 +178,28 @@
   summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.7
+  origversion: 2.9.7-1
+  status: outdated
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.8
+  origversion: 2.9.8-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: deno
   visiblename: deno
@@ -290,9 +290,9 @@
 - repo: slackbuilds
   srcname: development/deno
   visiblename: development/deno
-  version: 2.9.7
+  version: 2.9.8
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - fourtysixandtwo@sliderr.net
   categories:
@@ -438,6 +438,28 @@
   summary: secure runtime for JavaScript and TypeScript based on the V8 JavaScript engine and the Rust programming language
   licenses:
     - MIT License
+- repo: alpine_edge
+  subrepo: community
+  srcname: deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 2.7.4
+  origversion: 2.7.4-r5
+  status: outdated
+  summary: Fish completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: crates_io
+  srcname: deno_core
+  visiblename: deno_core
+  version: 0.413.0
+  origversion: null
+  status: outdated
+  summary: A modern JavaScript/TypeScript runtime built with V8, Rust, and Tokio
+  vulnerable: true
 - repo: alpine_3_19
   subrepo: community
   srcname: deno
@@ -853,20 +875,6 @@
   origversion: 2.7.4-r5
   status: outdated
   summary: Bash completions for deno
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: alpine_edge
-  subrepo: community
-  srcname: deno
-  binname: deno-fish-completion
-  visiblename: deno-fish-completion
-  version: 2.7.4
-  origversion: 2.7.4-r5
-  status: outdated
-  summary: Fish completions for deno
   maintainers:
     - jakub@jirutka.cz
   licenses:
@@ -927,14 +935,6 @@
   origversion: null
   status: outdated
   summary: A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
-  vulnerable: true
-- repo: crates_io
-  srcname: deno_core
-  visiblename: deno_core
-  version: 0.413.0
-  origversion: null
-  status: outdated
-  summary: A modern JavaScript/TypeScript runtime built with V8, Rust, and Tokio
   vulnerable: true
 - repo: nix_stable_24_05
   srcname: deno

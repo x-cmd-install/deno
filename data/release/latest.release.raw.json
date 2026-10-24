@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6157420,
       "digest": "sha256:2b19cf4591f62cfe85f1176d0af1602879d07280c97c504fa387605c4ad0b144",
-      "download_count": 300,
+      "download_count": 406,
       "created_at": "2026-10-21T15:04:56Z",
       "updated_at": "2026-10-21T15:04:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.from-2.9.7.bsdiff"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:1f781fefe7e1888584b1e7b5e3afc465c7dc9712c6a83c33ae1f34e7799d5d40",
-      "download_count": 287,
+      "download_count": 391,
       "created_at": "2026-10-21T15:04:56Z",
       "updated_at": "2026-10-21T15:04:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.from-2.9.7.bsdiff.sha256sum"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 71,
       "digest": "sha256:4e72750a8ca8de982942967718e1af6a32f3107f91b4ddbbcef49be371ee5f8a",
-      "download_count": 305,
+      "download_count": 411,
       "created_at": "2026-10-21T15:04:56Z",
       "updated_at": "2026-10-21T15:04:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.sha256sum"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 38770795,
       "digest": "sha256:9f0bf660393da2eaff044cdc7444cb08c73f235849b61d224d825a194ce7c98e",
-      "download_count": 5977,
+      "download_count": 9370,
       "created_at": "2026-10-21T15:04:56Z",
       "updated_at": "2026-10-21T15:04:59Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:1ca4234e7c94173c442249c0399070cdce09cc841092c0a6d205101bbde7dca3",
-      "download_count": 620,
+      "download_count": 945,
       "created_at": "2026-10-21T15:04:56Z",
       "updated_at": "2026-10-21T15:04:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-apple-darwin.zip.sha256sum"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4669648,
       "digest": "sha256:6f2f412c4ce63387d287a9e2f411286e79cf1e62a0f621e023b59da624b72125",
-      "download_count": 39,
+      "download_count": 64,
       "created_at": "2026-10-21T13:20:55Z",
       "updated_at": "2026-10-21T13:20:55Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.from-2.9.7.bsdiff"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 192,
       "digest": "sha256:803db711c86c05f306a690c494e7b60c74fbfdc5a3d3736f6836de967cecd4aa",
-      "download_count": 29,
+      "download_count": 42,
       "created_at": "2026-10-21T13:20:55Z",
       "updated_at": "2026-10-21T13:20:55Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.from-2.9.7.bsdiff.sha256sum"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 154,
       "digest": "sha256:5f2157e98cd351418e7e5fdb6b3ce6dbce66a38914e3bc04687478f3d8eba89e",
-      "download_count": 31,
+      "download_count": 42,
       "created_at": "2026-10-21T13:20:55Z",
       "updated_at": "2026-10-21T13:20:55Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.sha256sum"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 41163152,
       "digest": "sha256:b413b92b735b50c198e8fe3b85af1aa50e29d5f72e229aab701d132286e14cef",
-      "download_count": 628,
+      "download_count": 924,
       "created_at": "2026-10-21T13:20:55Z",
       "updated_at": "2026-10-21T13:20:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 178,
       "digest": "sha256:fdbe4f38869dcbf70beefda0c7a1fe02c9b52c6f23c46e0b6eea898a742e6fa2",
-      "download_count": 86,
+      "download_count": 117,
       "created_at": "2026-10-21T13:20:55Z",
       "updated_at": "2026-10-21T13:20:55Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-pc-windows-msvc.zip.sha256sum"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5752271,
       "digest": "sha256:c1ec0502f2be55ba5a22512f01582438af2d0b22c9725db8a8de95798892f975",
-      "download_count": 165,
+      "download_count": 205,
       "created_at": "2026-10-21T13:13:21Z",
       "updated_at": "2026-10-21T13:13:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.from-2.9.7.bsdiff"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:89b9a8469e317caee63f6c04ec6f5d4d4b3ab0dbf4924519f7843d722273264d",
-      "download_count": 170,
+      "download_count": 213,
       "created_at": "2026-10-21T13:13:21Z",
       "updated_at": "2026-10-21T13:13:21Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.from-2.9.7.bsdiff.sha256sum"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 71,
       "digest": "sha256:dbbbdf66ec97f9793bf4608934b767ed55ef50fc7dc7b0fb84933edf09a2bf2f",
-      "download_count": 204,
+      "download_count": 257,
       "created_at": "2026-10-21T13:13:21Z",
       "updated_at": "2026-10-21T13:13:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.sha256sum"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 40120596,
       "digest": "sha256:d49596c20b9788cf8f5d8ddf644103d4bde56ed239753f0bdb92ba9361d51905",
-      "download_count": 6389,
+      "download_count": 11442,
       "created_at": "2026-10-21T13:13:21Z",
       "updated_at": "2026-10-21T13:13:24Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:8eb865b23b330c730e109461eb3c1e185049ace2cd20a2002e7be1c023e284d0",
-      "download_count": 420,
+      "download_count": 602,
       "created_at": "2026-10-21T13:13:21Z",
       "updated_at": "2026-10-21T13:13:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-aarch64-unknown-linux-gnu.zip.sha256sum"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4438003,
       "digest": "sha256:dcbdf3a79960289049e3f9d9bb34bbfea276e1017a392398653783a4b1d76c9f",
-      "download_count": 55,
+      "download_count": 82,
       "created_at": "2026-10-21T14:34:22Z",
       "updated_at": "2026-10-21T14:34:23Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.from-2.9.7.bsdiff"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:96a582717acd8e32abaf806d1eb11b81377b1fd9f65d74af5b07bd53a19281d1",
-      "download_count": 59,
+      "download_count": 88,
       "created_at": "2026-10-21T14:34:22Z",
       "updated_at": "2026-10-21T14:34:23Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.from-2.9.7.bsdiff.sha256sum"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 71,
       "digest": "sha256:4af009c8722536813a381182ce8afcd2504ccb8ef59dca34854bae72bec4562d",
-      "download_count": 62,
+      "download_count": 94,
       "created_at": "2026-10-21T14:34:22Z",
       "updated_at": "2026-10-21T14:34:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.sha256sum"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 42797031,
       "digest": "sha256:4b2f5edd2639b7470f034238b321d7002d8dfb4726d8558f52c17afac370eb2c",
-      "download_count": 1138,
+      "download_count": 1893,
       "created_at": "2026-10-21T14:34:22Z",
       "updated_at": "2026-10-21T14:34:26Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:bd12f308c1d793fdb2131cd2b47a1288191b32321d4ce0e20656f151d5b6fb70",
-      "download_count": 161,
+      "download_count": 293,
       "created_at": "2026-10-21T14:34:22Z",
       "updated_at": "2026-10-21T14:34:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-apple-darwin.zip.sha256sum"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 4005358,
       "digest": "sha256:7ee3ce0f40dc918972ca6dcc80e143861661fea7b25ccb07cd983b6d0e8ba805",
-      "download_count": 29,
+      "download_count": 55,
       "created_at": "2026-10-21T13:01:02Z",
       "updated_at": "2026-10-21T13:01:03Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.from-2.9.7.bsdiff"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 191,
       "digest": "sha256:c27f974e8e5bc5aa7dad279bcf437e080f9df403f6c41831469777e94a704fd5",
-      "download_count": 31,
+      "download_count": 53,
       "created_at": "2026-10-21T13:01:02Z",
       "updated_at": "2026-10-21T13:01:02Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.from-2.9.7.bsdiff.sha256sum"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 154,
       "digest": "sha256:c2b2404be2a5b850b76a9c6ffd797c2178064f06d3bdf9806f53adcf0e021e4d",
-      "download_count": 66,
+      "download_count": 111,
       "created_at": "2026-10-21T13:01:02Z",
       "updated_at": "2026-10-21T13:01:02Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.sha256sum"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 42917472,
       "digest": "sha256:cba84b26e0df5ae7f74fc66b86a95b866872a86292ebd84fa1e959927edd93bf",
-      "download_count": 48326,
+      "download_count": 73878,
       "created_at": "2026-10-21T13:01:02Z",
       "updated_at": "2026-10-21T13:01:05Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.zip"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 177,
       "digest": "sha256:0fdedd625087373992be0dff62a3c3a3a9b254a0cf01d46d54c559c451c86413",
-      "download_count": 2807,
+      "download_count": 4676,
       "created_at": "2026-10-21T13:01:02Z",
       "updated_at": "2026-10-21T13:01:02Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-pc-windows-msvc.zip.sha256sum"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 4097434,
       "digest": "sha256:b5a0dc246dd87b5ef3ae195fe0d1849fbffb5509d6219c8e9125b48571b0f6a1",
-      "download_count": 1654,
+      "download_count": 2109,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.from-2.9.7.bsdiff"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:692c67c7a37f08e457229ce18753356230a068d25673596ca8b975986c407c27",
-      "download_count": 1653,
+      "download_count": 2102,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.from-2.9.7.bsdiff.sha256sum"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 71,
       "digest": "sha256:76e956515add2a4a309291910e865418ab52fed761ab39fa87a355599d8c7ae8",
-      "download_count": 1689,
+      "download_count": 2179,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.sha256sum"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 41963064,
       "digest": "sha256:e890975bc2549807bbcc0b584ffafda72cc7c93349dd99c80483dd784f6c4609",
-      "download_count": 89530,
+      "download_count": 143848,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:59Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:f41fbb4278955d03b735c37f957470a1432bdae643d673866e913eea6e4a7855",
-      "download_count": 5993,
+      "download_count": 9725,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.zip.sha256sum"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 29038595,
       "digest": "sha256:0d44d476ffcb0406771ed62eca9da8a9bc12b2f0b4a2c7b477b5303809c5b483",
-      "download_count": 44,
+      "download_count": 62,
       "created_at": "2026-10-21T15:04:56Z",
       "updated_at": "2026-10-21T15:04:59Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-apple-darwin.zip"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:d1a9c498c490faf655b57bc8a686c49261c72f3c239dbf5ee281e988f96c3de3",
-      "download_count": 22,
+      "download_count": 41,
       "created_at": "2026-10-21T15:04:56Z",
       "updated_at": "2026-10-21T15:04:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-apple-darwin.zip.sha256sum"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 31515608,
       "digest": "sha256:9c70c723e38940e1632502dd96ac1e1cec50adaaea96a9ce3071bebfcf913157",
-      "download_count": 38,
+      "download_count": 47,
       "created_at": "2026-10-21T13:20:55Z",
       "updated_at": "2026-10-21T13:20:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-pc-windows-msvc.zip"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 180,
       "digest": "sha256:896c7ccac3f5488bba4ff8d05143772479527a351acdcab9af5a95debb80a852",
-      "download_count": 25,
+      "download_count": 35,
       "created_at": "2026-10-21T13:20:55Z",
       "updated_at": "2026-10-21T13:20:55Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-pc-windows-msvc.zip.sha256sum"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 34610940,
       "digest": "sha256:1cf6a3b3e8c1f364c2b89fd08605e5c2d16ed1c670fed330fb5e370c2dbf6b3d",
-      "download_count": 36,
+      "download_count": 49,
       "created_at": "2026-10-21T13:13:21Z",
       "updated_at": "2026-10-21T13:13:24Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-unknown-linux-gnu.zip"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:954840d0d4477789cf110426e7a6c8df56f352fe7697208ba53c917b11a471da",
-      "download_count": 24,
+      "download_count": 34,
       "created_at": "2026-10-21T13:13:21Z",
       "updated_at": "2026-10-21T13:13:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-aarch64-unknown-linux-gnu.zip.sha256sum"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 32080734,
       "digest": "sha256:04a21f7ad67a22aaa07ec55ae2e161dd879ebaba64f6acbd8c707c1f3b4bfd1d",
-      "download_count": 29,
+      "download_count": 51,
       "created_at": "2026-10-21T14:34:22Z",
       "updated_at": "2026-10-21T14:34:26Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-apple-darwin.zip"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:98278dac96ebfc7dff0180772ca929e2c034720861f8067dbf9cfb268e34320c",
-      "download_count": 22,
+      "download_count": 48,
       "created_at": "2026-10-21T14:34:22Z",
       "updated_at": "2026-10-21T14:34:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-apple-darwin.zip.sha256sum"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 32979811,
       "digest": "sha256:87f58d9bb53bdbd1e2df10767cd0f5f05cf93b84c2608b94116a9b675476766a",
-      "download_count": 133,
+      "download_count": 196,
       "created_at": "2026-10-21T13:01:02Z",
       "updated_at": "2026-10-21T13:01:04Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-pc-windows-msvc.zip"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 179,
       "digest": "sha256:3734a34f952abffa203d177a1de79366d81a694a15a0cefcaf34a6d7f6d0cfc2",
-      "download_count": 28,
+      "download_count": 57,
       "created_at": "2026-10-21T13:01:02Z",
       "updated_at": "2026-10-21T13:01:03Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-pc-windows-msvc.zip.sha256sum"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 34819668,
       "digest": "sha256:1577df68c9fe13ec7b974d10d483e9f8974575a3d17f7c127489cf5032e14bd4",
-      "download_count": 65,
+      "download_count": 107,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:59Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-unknown-linux-gnu.zip"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:723e79a6a843fc5c7235219b828fcc70ce82c92e7aed387cd622fdf08501e6e9",
-      "download_count": 26,
+      "download_count": 56,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/denort-x86_64-unknown-linux-gnu.zip.sha256sum"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 37035922,
       "digest": "sha256:b57d0281c1647effc735f242ba52bc409747fc6ed6ad4946e76f062c67e113eb",
-      "download_count": 2080,
+      "download_count": 3209,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:59Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/deno_src.tar.gz"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 721335,
       "digest": "sha256:d474c1436452815395b60b5913cc2687560e23159f15b2dcaccb6e4bff09b25a",
-      "download_count": 40,
+      "download_count": 72,
       "created_at": "2026-10-21T13:13:22Z",
       "updated_at": "2026-10-21T13:13:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/lib.deno.d.ts"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 29219001,
       "digest": "sha256:b5edb378a0553d26018d583cd45b4250b5d35e512f96b6528c576e379eb57a1c",
-      "download_count": 27,
+      "download_count": 36,
       "created_at": "2026-10-21T15:04:56Z",
       "updated_at": "2026-10-21T15:04:58Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-apple-darwin.zip"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:703e11df8223fefd526a2122bfab6f982d35f78078c8bd30f49ea30217f8ca23",
-      "download_count": 22,
+      "download_count": 33,
       "created_at": "2026-10-21T15:04:56Z",
       "updated_at": "2026-10-21T15:04:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-apple-darwin.zip.sha256sum"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 31728378,
       "digest": "sha256:a380065e4d783d6507e52f8e5df9030d21fe96baf006b14f91d0880576497ec6",
-      "download_count": 33,
+      "download_count": 42,
       "created_at": "2026-10-21T13:20:55Z",
       "updated_at": "2026-10-21T13:20:58Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-pc-windows-msvc.zip"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 183,
       "digest": "sha256:de9c314851e7fb6c90735dba7ac8b92dd3ee19a9c9eb1e8aeecc085a5e747029",
-      "download_count": 24,
+      "download_count": 34,
       "created_at": "2026-10-21T13:20:54Z",
       "updated_at": "2026-10-21T13:20:55Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-pc-windows-msvc.zip.sha256sum"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 30422088,
       "digest": "sha256:2e8105380799e6b1625960771d0b993b0702eba60b7270aee96f6ca0764a8146",
-      "download_count": 33,
+      "download_count": 41,
       "created_at": "2026-10-21T13:13:21Z",
       "updated_at": "2026-10-21T13:13:23Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-unknown-linux-gnu.zip"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:1bcf2fd132510e0fe65049eec99f340c428606b7426781968e2e0fb74b11a019",
-      "download_count": 22,
+      "download_count": 31,
       "created_at": "2026-10-21T13:13:21Z",
       "updated_at": "2026-10-21T13:13:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-aarch64-unknown-linux-gnu.zip.sha256sum"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 32278358,
       "digest": "sha256:4f002b9714c7914120d55c635d86f5f272644b1291bf29b6a008250e52558782",
-      "download_count": 25,
+      "download_count": 44,
       "created_at": "2026-10-21T14:34:22Z",
       "updated_at": "2026-10-21T14:34:26Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-apple-darwin.zip"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:8732d7e68c88a1ebb44c0ba0c4c744ce52d76c16cdf5c7409b2fab8f41fc0c8c",
-      "download_count": 22,
+      "download_count": 44,
       "created_at": "2026-10-21T14:34:22Z",
       "updated_at": "2026-10-21T14:34:22Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-apple-darwin.zip.sha256sum"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 33201486,
       "digest": "sha256:a35ddbcc7258f701b6607ca885e61b97b3ac2774baf78f73eecd00efcc16f503",
-      "download_count": 70,
+      "download_count": 106,
       "created_at": "2026-10-21T13:01:02Z",
       "updated_at": "2026-10-21T13:01:04Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-pc-windows-msvc.zip"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 182,
       "digest": "sha256:e7613710456a717486f5de72cadada134b9ea7883acac5c8f03098b1a5da6fd6",
-      "download_count": 29,
+      "download_count": 52,
       "created_at": "2026-10-21T13:01:02Z",
       "updated_at": "2026-10-21T13:01:02Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-pc-windows-msvc.zip.sha256sum"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 31824779,
       "digest": "sha256:2ba29e3af198372f34874cc5e6e45eb6bece800b9eac17a731124befd49a8fb2",
-      "download_count": 41,
+      "download_count": 65,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:58Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-unknown-linux-gnu.zip"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:e72dcb574cf1b1b318984a4a35c310348f9a2490e8a67e1a119df6d21025dfda",
-      "download_count": 28,
+      "download_count": 47,
       "created_at": "2026-10-21T13:10:57Z",
       "updated_at": "2026-10-21T13:10:57Z",
       "browser_download_url": "https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-unknown-linux-gnu.zip.sha256sum"
