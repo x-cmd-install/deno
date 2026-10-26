@@ -1,3 +1,36 @@
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.6
+  origversion: 2.9.6-1
+  status: outdated
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.7
+  origversion: 2.9.7-1
+  status: outdated
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.8
+  origversion: 2.9.8-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
 - repo: aosc
   srcname: lang-js/deno
   binname: deno
@@ -47,16 +80,16 @@
 - repo: chocolatey
   binname: deno
   visiblename: Deno
-  version: 2.9.7
+  version: 2.9.8
   origversion: null
-  status: outdated
+  status: newest
   summary: A secure runtime for JavaScript and TypeScript built with V8, Rust, and Tokio.
 - repo: chromebrew
   srcname: deno
   visiblename: deno
-  version: 2.9.7
+  version: 2.9.8
   origversion: null
-  status: outdated
+  status: newest
   summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
@@ -167,39 +200,6 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: deno
-  binname: deno
-  visiblename: deno
-  version: 2.9.6
-  origversion: 2.9.6-1
-  status: outdated
-  summary: A secure runtime for JavaScript and TypeScript
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: deno
-  binname: deno
-  visiblename: deno
-  version: 2.9.7
-  origversion: 2.9.7-1
-  status: outdated
-  summary: A secure runtime for JavaScript and TypeScript
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: deno
-  binname: deno
-  visiblename: deno
-  version: 2.9.8
-  origversion: 2.9.8-1
-  status: newest
-  summary: A secure runtime for JavaScript and TypeScript
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: deno
   visiblename: deno
@@ -345,6 +345,15 @@
   summary: A modern runtime for JavaScript and TypeScript
   maintainers:
     - licy183@github
+- repo: wikidata
+  srcname: Q65070939
+  visiblename: Deno
+  version: 2.9.8
+  origversion: null
+  status: newest
+  summary: secure runtime for JavaScript and TypeScript based on the V8 JavaScript engine and the Rust programming language
+  licenses:
+    - MIT License
 - repo: terra_rawhide
   srcname: rust-deno
   binname: deno
@@ -429,26 +438,27 @@
     - MIT
   categories:
     - Unspecified
-- repo: wikidata
-  srcname: Q65070939
-  visiblename: Deno
-  version: 2.9.8
-  origversion: null
-  status: newest
-  summary: secure runtime for JavaScript and TypeScript based on the V8 JavaScript engine and the Rust programming language
-  licenses:
-    - MIT License
-- repo: alpine_edge
-  subrepo: community
+- repo: nix_stable_24_05
   srcname: deno
-  binname: deno-fish-completion
-  visiblename: deno-fish-completion
-  version: 2.7.4
-  origversion: 2.7.4-r5
+  visiblename: deno
+  version: 1.44.3
+  origversion: null
   status: outdated
-  summary: Fish completions for deno
+  summary: A secure runtime for JavaScript and TypeScript
   maintainers:
-    - jakub@jirutka.cz
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: deno
+  visiblename: deno
+  version: 2.1.4
+  origversion: null
+  status: outdated
+  summary: Secure runtime for JavaScript and TypeScript
+  maintainers:
+    - hello+nixpkgs@j-k.io
   licenses:
     - MIT
   vulnerable: true
@@ -883,6 +893,20 @@
 - repo: alpine_edge
   subrepo: community
   srcname: deno
+  binname: deno-fish-completion
+  visiblename: deno-fish-completion
+  version: 2.7.4
+  origversion: 2.7.4-r5
+  status: outdated
+  summary: Fish completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: alpine_edge
+  subrepo: community
+  srcname: deno
   binname: deno-zsh-completion
   visiblename: deno-zsh-completion
   version: 2.7.4
@@ -936,30 +960,6 @@
   status: outdated
   summary: A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
   vulnerable: true
-- repo: nix_stable_24_05
-  srcname: deno
-  visiblename: deno
-  version: 1.44.3
-  origversion: null
-  status: outdated
-  summary: A secure runtime for JavaScript and TypeScript
-  maintainers:
-    - hello+nixpkgs@j-k.io
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: nix_stable_24_11
-  srcname: deno
-  visiblename: deno
-  version: 2.1.4
-  origversion: null
-  status: outdated
-  summary: Secure runtime for JavaScript and TypeScript
-  maintainers:
-    - hello+nixpkgs@j-k.io
-  licenses:
-    - MIT
-  vulnerable: true
 - repo: nix_stable_25_05
   srcname: deno
   visiblename: deno
@@ -1012,6 +1012,32 @@
   categories:
     - Unspecified
   vulnerable: true
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: rust-deno-debugsource
+  visiblename: rust-deno-debugsource
+  version: 2.6.8
+  origversion: 2.6.8-1.fcrawhide
+  status: legacy
+  summary: Debug sources for package rust-deno
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+  vulnerable: true
+- repo: terra_rawhide
+  srcname: rust-deno
+  binname: rust-deno-debugsource
+  visiblename: rust-deno-debugsource
+  version: 2.7.4
+  origversion: 2.7.4-1.fcrawhide
+  status: legacy
+  summary: Debug sources for package rust-deno
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+  vulnerable: true
 - repo: terra_41
   srcname: rust-deno
   binname: deno-debuginfo
@@ -1058,32 +1084,6 @@
   version: 2.5.6
   origversion: 2.5.6-3.fc41
   status: outdated
-  summary: Debug sources for package rust-deno
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
-  vulnerable: true
-- repo: terra_rawhide
-  srcname: rust-deno
-  binname: rust-deno-debugsource
-  visiblename: rust-deno-debugsource
-  version: 2.6.8
-  origversion: 2.6.8-1.fcrawhide
-  status: legacy
-  summary: Debug sources for package rust-deno
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
-  vulnerable: true
-- repo: terra_rawhide
-  srcname: rust-deno
-  binname: rust-deno-debugsource
-  visiblename: rust-deno-debugsource
-  version: 2.7.4
-  origversion: 2.7.4-1.fcrawhide
-  status: legacy
   summary: Debug sources for package rust-deno
   licenses:
     - MIT
