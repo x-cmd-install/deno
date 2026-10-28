@@ -30,8 +30,8 @@ x install deno
 
 评分最低的几项:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## 源代码
@@ -48,22 +48,22 @@ x install deno
 
 ## 流行度
 
-- **Star**: 108,789 · **Fork**: 6,466 · **开放 issue**: 15,199 · **贡献者**: 1,208
+- **Star**: 108,792 · **Fork**: 6,468 · **开放 issue**: 15,199 · **贡献者**: 1,208
 
 ## 累计统计
 
-- **发布数**: 391 · **已合并 PR**: 16575 · **开放 PR**: 347 · **已关闭 issue**: 13888 · **开放 issue**: 1311 · **提交数**: 17398
+- **发布数**: 391 · **已合并 PR**: 16575 · **开放 PR**: 351 · **已关闭 issue**: 13888 · **开放 issue**: 1311 · **提交数**: 17398
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 22 | 75 | 8 | 64 | 21 |
-| last60d | 2026-08-28 | 2 | 52 | 130 | 25 | 134 | 64 |
-| 90d | 2026-07-29 | 4 | 186 | 182 | 94 | 226 | 211 |
-| last180d | 2026-04-30 | 13 | 1533 | 314 | 536 | 434 | 1939 |
-| 360d | 2025-11-01 | 40 | 2913 | 338 | 1131 | 553 | 4006 |
-| last720d | 2024-11-06 | 94 | 4727 | 347 | 2997 | 881 | 4734 |
+| 30d | 2026-09-28 | 1 | 22 | 78 | 8 | 64 | 21 |
+| last60d | 2026-08-29 | 2 | 49 | 133 | 23 | 129 | 64 |
+| 90d | 2026-07-30 | 4 | 175 | 184 | 92 | 222 | 211 |
+| last180d | 2026-05-01 | 13 | 1516 | 318 | 533 | 433 | 1939 |
+| 360d | 2025-11-02 | 40 | 2910 | 342 | 1131 | 553 | 4006 |
+| last720d | 2024-11-07 | 93 | 4726 | 351 | 2993 | 880 | 4728 |
 
 ## Release 资产
 
@@ -147,4 +147,4 @@ deno 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:01:17Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:33:18Z._
