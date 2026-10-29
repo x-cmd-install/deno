@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 108,792 · **Forks**: 6,468 · **Open issues**: 15,199 · **Contributors**: 1,208
+- **Stars**: 108,791 · **Forks**: 6,469 · **Open issues**: 15,199 · **Contributors**: 1,208
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 22 | 78 | 8 | 64 | 21 |
-| last60d | 2026-08-29 | 2 | 49 | 133 | 23 | 129 | 64 |
-| 90d | 2026-07-30 | 4 | 175 | 184 | 92 | 222 | 211 |
-| last180d | 2026-05-01 | 13 | 1516 | 318 | 533 | 433 | 1939 |
-| 360d | 2025-11-02 | 40 | 2910 | 342 | 1131 | 553 | 4006 |
-| last720d | 2024-11-07 | 93 | 4726 | 351 | 2993 | 880 | 4728 |
+| 30d | 2026-09-29 | 1 | 22 | 74 | 8 | 60 | 21 |
+| last60d | 2026-08-30 | 2 | 49 | 133 | 22 | 126 | 64 |
+| 90d | 2026-07-31 | 4 | 173 | 184 | 89 | 220 | 211 |
+| last180d | 2026-05-02 | 13 | 1504 | 318 | 528 | 433 | 1939 |
+| 360d | 2025-11-03 | 40 | 2905 | 342 | 1123 | 553 | 4006 |
+| last720d | 2024-11-08 | 93 | 4721 | 351 | 2983 | 878 | 4724 |
 
 ## Release assets
 
@@ -147,4 +147,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:33:17Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:43:35Z._
