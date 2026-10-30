@@ -1,3 +1,10 @@
+- repo: crates_io
+  srcname: deno
+  visiblename: deno
+  version: 2.9.8
+  origversion: null
+  status: newest
+  summary: Provides the deno executable
 - repo: aosc
   srcname: lang-js/deno
   binname: deno
@@ -38,9 +45,9 @@
   srcname: deno
   binname: deno
   visiblename: deno
-  version: 2.9.7
-  origversion: 2.9.7-2
-  status: outdated
+  version: 2.9.8
+  origversion: 2.9.8-1
+  status: newest
   summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
@@ -60,13 +67,6 @@
   summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
-- repo: crates_io
-  srcname: deno
-  visiblename: deno
-  version: 2.9.8
-  origversion: null
-  status: newest
-  summary: Provides the deno executable
 - repo: exherbo
   subrepo: rust
   srcname: dev-lang/deno-bin
@@ -83,9 +83,9 @@
   srcname: www/deno
   binname: deno
   visiblename: www/deno
-  version: 2.9.7
-  origversion: 2.9.7_3
-  status: outdated
+  version: 2.9.8
+  origversion: null
+  status: newest
   summary: Secure JavaScript and TypeScript runtime
   maintainers:
     - ports@freebsd.org
