@@ -30,8 +30,8 @@ x install deno
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## 源代码
@@ -48,22 +48,22 @@ x install deno
 
 ## 流行度
 
-- **Star**: 108,803 · **Fork**: 6,510 · **开放 issue**: 15,211 · **贡献者**: 1,208
+- **Star**: 108,814 · **Fork**: 6,579 · **开放 issue**: 15,211 · **贡献者**: 1,207
 
 ## 累计统计
 
-- **发布数**: 391 · **已合并 PR**: 16575 · **开放 PR**: 361 · **已关闭 issue**: 13888 · **开放 issue**: 1323 · **提交数**: 17398
+- **发布数**: 391 · **已合并 PR**: 16574 · **开放 PR**: 363 · **已关闭 issue**: 13886 · **开放 issue**: 1325 · **提交数**: 17398
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 13 | 73 | 5 | 57 | 12 |
-| last60d | 2026-09-05 | 2 | 40 | 140 | 20 | 124 | 39 |
-| 90d | 2026-08-06 | 4 | 127 | 183 | 73 | 220 | 171 |
-| last180d | 2026-05-08 | 13 | 1416 | 326 | 508 | 443 | 1842 |
-| 360d | 2025-11-09 | 40 | 2876 | 352 | 1112 | 563 | 3983 |
-| last720d | 2024-11-14 | 92 | 4694 | 361 | 2945 | 878 | 4697 |
+| 30d | 2026-10-06 | 1 | 12 | 72 | 5 | 54 | 12 |
+| last60d | 2026-09-06 | 2 | 40 | 142 | 20 | 122 | 39 |
+| 90d | 2026-08-07 | 3 | 119 | 181 | 72 | 218 | 171 |
+| last180d | 2026-05-09 | 13 | 1407 | 328 | 505 | 445 | 1842 |
+| 360d | 2025-11-10 | 40 | 2874 | 354 | 1108 | 564 | 3983 |
+| last720d | 2024-11-15 | 92 | 4688 | 363 | 2941 | 878 | 4692 |
 
 ## Release 资产
 
@@ -147,4 +147,4 @@ deno 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:10:10Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:35:00Z._
