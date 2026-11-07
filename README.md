@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 108,835 · **Forks**: 6,590 · **Open issues**: 15,218 · **Contributors**: 1,206
+- **Stars**: 108,906 · **Forks**: 6,655 · **Open issues**: 15,220 · **Contributors**: 1,206
 
 ## Totals (cumulative)
 
-- **Releases**: 391 · **Merged PRs**: 16573 · **Open PRs**: 363 · **Closed issues**: 13887 · **Open issues**: 1331 · **Commits**: 17398
+- **Releases**: 391 · **Merged PRs**: 16573 · **Open PRs**: 365 · **Closed issues**: 13887 · **Open issues**: 1333 · **Commits**: 17398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 12 | 71 | 5 | 56 | 12 |
-| last60d | 2026-09-07 | 2 | 38 | 140 | 18 | 124 | 39 |
-| 90d | 2026-08-08 | 3 | 117 | 179 | 68 | 220 | 171 |
-| last180d | 2026-05-10 | 13 | 1401 | 328 | 503 | 452 | 1842 |
-| 360d | 2025-11-11 | 40 | 2870 | 354 | 1106 | 570 | 3983 |
-| last720d | 2024-11-16 | 92 | 4681 | 363 | 2939 | 882 | 4686 |
+| 30d | 2026-10-08 | 1 | 12 | 68 | 5 | 56 | 12 |
+| last60d | 2026-09-08 | 2 | 37 | 137 | 18 | 123 | 39 |
+| 90d | 2026-08-09 | 3 | 117 | 180 | 62 | 215 | 171 |
+| last180d | 2026-05-11 | 13 | 1390 | 330 | 496 | 453 | 1842 |
+| 360d | 2025-11-12 | 40 | 2860 | 356 | 1102 | 572 | 3983 |
+| last720d | 2024-11-17 | 92 | 4680 | 365 | 2936 | 884 | 4677 |
 
 ## Release assets
 
@@ -128,7 +128,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **85** distros on [repology.org](https://repology.org/project/deno). **22** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **85** distros on [repology.org](https://repology.org/project/deno). **23** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -147,4 +147,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:31:44Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:53:14Z._
