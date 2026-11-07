@@ -1,19 +1,14 @@
-- repo: chromebrew
+- repo: manjaro_testing
+  subrepo: extra
   srcname: deno
+  binname: deno
   visiblename: deno
   version: 2.9.8
-  origversion: null
+  origversion: 2.9.8-1
   status: newest
   summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
-- repo: crates_io
-  srcname: deno
-  visiblename: deno
-  version: 2.9.8
-  origversion: null
-  status: newest
-  summary: Provides the deno executable
 - repo: aosc
   srcname: lang-js/deno
   binname: deno
@@ -37,6 +32,27 @@
   summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 2.9.8
+  origversion: 2.9.8-1
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: slackbuilds
+  srcname: development/deno
+  visiblename: development/deno
+  version: 2.9.8
+  origversion: null
+  status: newest
+  maintainers:
+    - fourtysixandtwo@sliderr.net
+  categories:
+    - development
 - repo: aur
   srcname: deno-git
   binname: deno-git
@@ -67,6 +83,22 @@
   origversion: null
   status: newest
   summary: A secure runtime for JavaScript and TypeScript built with V8, Rust, and Tokio.
+- repo: chromebrew
+  srcname: deno
+  visiblename: deno
+  version: 2.9.8
+  origversion: null
+  status: newest
+  summary: A secure runtime for JavaScript and TypeScript
+  licenses:
+    - MIT
+- repo: crates_io
+  srcname: deno
+  visiblename: deno
+  version: 2.9.8
+  origversion: null
+  status: newest
+  summary: Provides the deno executable
 - repo: exherbo
   subrepo: rust
   srcname: dev-lang/deno-bin
@@ -167,14 +199,14 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_unstable
+- repo: manjaro_stable
   subrepo: extra
   srcname: deno
   binname: deno
   visiblename: deno
-  version: 2.9.8
-  origversion: 2.9.8-1
-  status: newest
+  version: 2.9.7
+  origversion: 2.9.7-1
+  status: outdated
   summary: A secure runtime for JavaScript and TypeScript
   licenses:
     - MIT
@@ -265,16 +297,6 @@
   status: newest
   licenses:
     - MIT
-- repo: slackbuilds
-  srcname: development/deno
-  visiblename: development/deno
-  version: 2.9.8
-  origversion: null
-  status: newest
-  maintainers:
-    - fourtysixandtwo@sliderr.net
-  categories:
-    - development
 - repo: solus
   srcname: deno
   binname: deno
@@ -416,21 +438,33 @@
   summary: secure runtime for JavaScript and TypeScript based on the V8 JavaScript engine and the Rust programming language
   licenses:
     - MIT License
-- repo: crates_io
-  srcname: deno_core
-  visiblename: deno_core
-  version: 0.413.0
-  origversion: null
+- repo: alpine_3_19
+  subrepo: community
+  srcname: deno
+  binname: deno
+  visiblename: deno
+  version: 1.38.1
+  origversion: 1.38.1-r0
   status: outdated
-  summary: A modern JavaScript/TypeScript runtime built with V8, Rust, and Tokio
+  summary: A modern runtime for JavaScript and TypeScript
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
   vulnerable: true
-- repo: crates_io
-  srcname: deno_cli
-  visiblename: deno_cli
-  version: 0.23.3
-  origversion: null
+- repo: alpine_3_19
+  subrepo: community
+  srcname: deno
+  binname: deno-bash-completion
+  visiblename: deno-bash-completion
+  version: 1.38.1
+  origversion: 1.38.1-r0
   status: outdated
-  summary: A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
+  summary: Bash completions for deno
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
   vulnerable: true
 - repo: alpine_3_19
   subrepo: community
@@ -455,34 +489,6 @@
   origversion: 1.38.1-r0
   status: outdated
   summary: Fish completions for deno
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: alpine_3_19
-  subrepo: community
-  srcname: deno
-  binname: deno
-  visiblename: deno
-  version: 1.38.1
-  origversion: 1.38.1-r0
-  status: outdated
-  summary: A modern runtime for JavaScript and TypeScript
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: alpine_3_19
-  subrepo: community
-  srcname: deno
-  binname: deno-bash-completion
-  visiblename: deno-bash-completion
-  version: 1.38.1
-  origversion: 1.38.1-r0
-  status: outdated
-  summary: Bash completions for deno
   maintainers:
     - jakub@jirutka.cz
   licenses:
@@ -914,29 +920,21 @@
   categories:
     - Development/Other
   vulnerable: true
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: deno
-  binname: deno
-  visiblename: deno
-  version: 1.36.4
-  origversion: 1.36.4-1
+- repo: crates_io
+  srcname: deno_cli
+  visiblename: deno_cli
+  version: 0.23.3
+  origversion: null
   status: outdated
-  summary: A secure runtime for JavaScript and TypeScript
-  licenses:
-    - MIT
+  summary: A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio
   vulnerable: true
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: deno
-  binname: deno
-  visiblename: deno
-  version: 1.36.4
-  origversion: 1.36.4-1
+- repo: crates_io
+  srcname: deno_core
+  visiblename: deno_core
+  version: 0.413.0
+  origversion: null
   status: outdated
-  summary: A secure runtime for JavaScript and TypeScript
-  licenses:
-    - MIT
+  summary: A modern JavaScript/TypeScript runtime built with V8, Rust, and Tokio
   vulnerable: true
 - repo: nix_stable_24_05
   srcname: deno
