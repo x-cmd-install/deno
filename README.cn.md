@@ -30,8 +30,8 @@ x install deno
 
 评分最低的几项:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## 源代码
@@ -48,22 +48,22 @@ x install deno
 
 ## 流行度
 
-- **Star**: 108,921 · **Fork**: 7,445 · **开放 issue**: 15,238 · **贡献者**: 1,203
+- **Star**: 108,994 · **Fork**: 7,494 · **开放 issue**: 15,244 · **贡献者**: 1,204
 
 ## 累计统计
 
-- **发布数**: 391 · **已合并 PR**: 16569 · **开放 PR**: 386 · **已关闭 issue**: 13886 · **开放 issue**: 1352 · **提交数**: 17398
+- **发布数**: 391 · **已合并 PR**: 16572 · **开放 PR**: 387 · **已关闭 issue**: 13887 · **开放 issue**: 1357 · **提交数**: 17398
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 11 | 70 | 3 | 56 | 2 |
-| last60d | 2026-09-17 | 2 | 31 | 134 | 15 | 123 | 30 |
-| 90d | 2026-08-18 | 3 | 85 | 188 | 40 | 203 | 110 |
-| last180d | 2026-05-20 | 13 | 1228 | 347 | 458 | 469 | 1611 |
-| 360d | 2025-11-21 | 40 | 2812 | 377 | 1069 | 583 | 3906 |
-| last720d | 2024-11-26 | 90 | 4601 | 386 | 2840 | 897 | 4609 |
+| 30d | 2026-10-18 | 1 | 11 | 70 | 3 | 62 | 2 |
+| last60d | 2026-09-18 | 1 | 31 | 134 | 16 | 125 | 30 |
+| 90d | 2026-08-19 | 3 | 83 | 187 | 40 | 207 | 110 |
+| last180d | 2026-05-21 | 13 | 1223 | 348 | 456 | 474 | 1611 |
+| 360d | 2025-11-22 | 40 | 2813 | 377 | 1067 | 588 | 3906 |
+| last720d | 2024-11-27 | 90 | 4597 | 387 | 2835 | 898 | 4597 |
 
 ## Release 资产
 
@@ -133,7 +133,7 @@ x install deno
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `2.9.8` | ✅ latest |
-| Homebrew | `2.9.8` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2.9.8` | ✅ latest |
 | Alpine edge | `2.7.4` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.9.0` | ⚠️ outdated |
@@ -147,4 +147,4 @@ deno 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:18:41Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T07:58:50Z._

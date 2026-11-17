@@ -30,8 +30,8 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 108,921 · **Forks**: 7,445 · **Open issues**: 15,238 · **Contributors**: 1,203
+- **Stars**: 108,994 · **Forks**: 7,494 · **Open issues**: 15,244 · **Contributors**: 1,204
 
 ## Totals (cumulative)
 
-- **Releases**: 391 · **Merged PRs**: 16569 · **Open PRs**: 386 · **Closed issues**: 13886 · **Open issues**: 1352 · **Commits**: 17398
+- **Releases**: 391 · **Merged PRs**: 16572 · **Open PRs**: 387 · **Closed issues**: 13887 · **Open issues**: 1357 · **Commits**: 17398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 11 | 70 | 3 | 56 | 2 |
-| last60d | 2026-09-17 | 2 | 31 | 134 | 15 | 123 | 30 |
-| 90d | 2026-08-18 | 3 | 85 | 188 | 40 | 203 | 110 |
-| last180d | 2026-05-20 | 13 | 1228 | 347 | 458 | 469 | 1611 |
-| 360d | 2025-11-21 | 40 | 2812 | 377 | 1069 | 583 | 3906 |
-| last720d | 2024-11-26 | 90 | 4601 | 386 | 2840 | 897 | 4609 |
+| 30d | 2026-10-18 | 1 | 11 | 70 | 3 | 62 | 2 |
+| last60d | 2026-09-18 | 1 | 31 | 134 | 16 | 125 | 30 |
+| 90d | 2026-08-19 | 3 | 83 | 187 | 40 | 207 | 110 |
+| last180d | 2026-05-21 | 13 | 1223 | 348 | 456 | 474 | 1611 |
+| 360d | 2025-11-22 | 40 | 2813 | 377 | 1067 | 588 | 3906 |
+| last720d | 2024-11-27 | 90 | 4597 | 387 | 2835 | 898 | 4597 |
 
 ## Release assets
 
@@ -133,7 +133,7 @@ Reported by **85** distros on [repology.org](https://repology.org/project/deno).
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.9.8` | ✅ latest |
-| Homebrew | `2.9.8` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2.9.8` | ✅ latest |
 | Alpine edge | `2.7.4` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.9.0` | ⚠️ outdated |
@@ -147,4 +147,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:18:40Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:58:49Z._
