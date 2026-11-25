@@ -26,12 +26,12 @@ Total: **1,308,394** lines of code across **8298** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 109,004 · **Forks**: 6,593 · **Open issues**: 15,248 · **Contributors**: 1,205
+- **Stars**: 108,997 · **Forks**: 6,588 · **Open issues**: 15,248 · **Contributors**: 1,205
 
 ## Totals (cumulative)
 
-- **Releases**: 391 · **Merged PRs**: 16577 · **Open PRs**: 394 · **Closed issues**: 13888 · **Open issues**: 1360 · **Commits**: 17403
+- **Releases**: 391 · **Merged PRs**: 16577 · **Open PRs**: 395 · **Closed issues**: 13889 · **Open issues**: 1359 · **Commits**: 17403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 4 | 64 | 3 | 54 | 5 |
-| last60d | 2026-09-25 | 1 | 27 | 136 | 11 | 117 | 29 |
-| 90d | 2026-08-26 | 3 | 66 | 186 | 36 | 189 | 84 |
-| last180d | 2026-05-28 | 11 | 1130 | 352 | 412 | 468 | 1328 |
-| 360d | 2025-11-29 | 40 | 2796 | 383 | 1041 | 585 | 3880 |
-| last720d | 2024-12-04 | 89 | 4566 | 394 | 2774 | 894 | 4569 |
+| 30d | 2026-10-26 | 0 | 3 | 64 | 3 | 53 | 5 |
+| last60d | 2026-09-26 | 1 | 27 | 135 | 12 | 115 | 29 |
+| 90d | 2026-08-27 | 3 | 62 | 186 | 35 | 185 | 84 |
+| last180d | 2026-05-29 | 11 | 1073 | 353 | 409 | 467 | 1328 |
+| 360d | 2025-11-30 | 40 | 2791 | 384 | 1042 | 583 | 3880 |
+| last720d | 2024-12-05 | 89 | 4561 | 395 | 2769 | 893 | 4560 |
 
 ## Release assets
 
@@ -147,4 +147,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:00:46Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:20:53Z._

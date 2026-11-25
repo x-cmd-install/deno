@@ -26,12 +26,12 @@ x install deno
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **6.2 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## 源代码
@@ -48,22 +48,22 @@ x install deno
 
 ## 流行度
 
-- **Star**: 109,004 · **Fork**: 6,593 · **开放 issue**: 15,248 · **贡献者**: 1,205
+- **Star**: 108,997 · **Fork**: 6,588 · **开放 issue**: 15,248 · **贡献者**: 1,205
 
 ## 累计统计
 
-- **发布数**: 391 · **已合并 PR**: 16577 · **开放 PR**: 394 · **已关闭 issue**: 13888 · **开放 issue**: 1360 · **提交数**: 17403
+- **发布数**: 391 · **已合并 PR**: 16577 · **开放 PR**: 395 · **已关闭 issue**: 13889 · **开放 issue**: 1359 · **提交数**: 17403
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 4 | 64 | 3 | 54 | 5 |
-| last60d | 2026-09-25 | 1 | 27 | 136 | 11 | 117 | 29 |
-| 90d | 2026-08-26 | 3 | 66 | 186 | 36 | 189 | 84 |
-| last180d | 2026-05-28 | 11 | 1130 | 352 | 412 | 468 | 1328 |
-| 360d | 2025-11-29 | 40 | 2796 | 383 | 1041 | 585 | 3880 |
-| last720d | 2024-12-04 | 89 | 4566 | 394 | 2774 | 894 | 4569 |
+| 30d | 2026-10-26 | 0 | 3 | 64 | 3 | 53 | 5 |
+| last60d | 2026-09-26 | 1 | 27 | 135 | 12 | 115 | 29 |
+| 90d | 2026-08-27 | 3 | 62 | 186 | 35 | 185 | 84 |
+| last180d | 2026-05-29 | 11 | 1073 | 353 | 409 | 467 | 1328 |
+| 360d | 2025-11-30 | 40 | 2791 | 384 | 1042 | 583 | 3880 |
+| last720d | 2024-12-05 | 89 | 4561 | 395 | 2769 | 893 | 4560 |
 
 ## Release 资产
 
@@ -147,4 +147,4 @@ deno 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:00:47Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:20:55Z._
