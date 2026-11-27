@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 109,027 · **Forks**: 6,599 · **Open issues**: 15,250 · **Contributors**: 1,205
+- **Stars**: 109,039 · **Forks**: 6,624 · **Open issues**: 15,250 · **Contributors**: 1,204
 
 ## Totals (cumulative)
 
-- **Releases**: 391 · **Merged PRs**: 16577 · **Open PRs**: 396 · **Closed issues**: 13889 · **Open issues**: 1361 · **Commits**: 17403
+- **Releases**: 391 · **Merged PRs**: 16575 · **Open PRs**: 397 · **Closed issues**: 13889 · **Open issues**: 1361 · **Commits**: 17403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 3 | 61 | 3 | 55 | 5 |
-| last60d | 2026-09-27 | 1 | 27 | 134 | 12 | 116 | 29 |
-| 90d | 2026-08-28 | 2 | 57 | 187 | 30 | 185 | 84 |
-| last180d | 2026-05-30 | 11 | 1045 | 353 | 404 | 469 | 1328 |
-| 360d | 2025-12-01 | 40 | 2789 | 385 | 1040 | 585 | 3880 |
-| last720d | 2024-12-06 | 89 | 4556 | 396 | 2761 | 894 | 4553 |
+| 30d | 2026-10-28 | 0 | 3 | 62 | 3 | 55 | 5 |
+| last60d | 2026-09-28 | 1 | 27 | 134 | 12 | 116 | 29 |
+| 90d | 2026-08-29 | 2 | 54 | 187 | 28 | 180 | 84 |
+| last180d | 2026-05-31 | 11 | 1011 | 353 | 402 | 469 | 1328 |
+| 360d | 2025-12-02 | 40 | 2784 | 386 | 1038 | 585 | 3880 |
+| last720d | 2024-12-07 | 88 | 4553 | 397 | 2757 | 893 | 4548 |
 
 ## Release assets
 
@@ -126,18 +126,6 @@ Lowest-scoring checks:
 | [libdenort-x86_64-unknown-linux-gnu.zip](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-unknown-linux-gnu.zip) | 30.4 MiB | `native/linux/x64/glibc` |
 | [libdenort-x86_64-unknown-linux-gnu.zip.sha256sum](https://github.com/denoland/deno/releases/download/v2.9.8/libdenort-x86_64-unknown-linux-gnu.zip.sha256sum) | 105 B | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **85** distros on [repology.org](https://repology.org/project/deno). **24** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.9.8` | ✅ latest |
-| Homebrew | `2.9.8` | ✅ latest |
-| Nix unstable | `2.9.8` | ✅ latest |
-| Alpine edge | `2.7.4` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.9.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `deno` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -147,4 +135,4 @@ Install metadata for deno lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:10:38Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:41:20Z._
